@@ -1,0 +1,17 @@
+Transaction List by Date
+Sample Bookkeeping Co
+"January 1 - December 31, 2026"
+
+,Date,Transaction Type,Num,Posting,Name,Memo/Description,Account,Split,Amount,Create Date
+,01/03/2026,Expense,,Yes,Staples,Printer paper,Company Visa,Office Supplies,-84.17,01/03/2026 09:12:44 AM
+,01/05/2026,Check,1041,Yes,Bayview Properties,January rent,Business Checking,Rent or Lease,"-6,500.00",01/05/2026 10:01:02 AM
+,01/07/2026,Invoice,1001,Yes,Acme Corp,,Accounts Receivable (A/R),Services,"2,400.00",01/07/2026 11:30:00 AM
+,01/09/2026,Bill,B-77,Yes,Smith & Lee CPAs,Q4 review,Accounts Payable (A/P),Legal & Professional Fees,"1,200.00",01/09/2026 02:00:10 PM
+,01/12/2026,Bill Payment (Check),1042,Yes,Smith & Lee CPAs,,Business Checking,Accounts Payable (A/P),"-1,200.00",01/12/2026 08:45:33 AM
+,01/14/2026,Deposit,,Yes,,Client payment,Business Checking,Undeposited Funds,"2,400.00",01/14/2026 09:00:00 AM
+,01/15/2026,Credit Card Expense,,Yes,Amazon,Monitor + cables,Company Visa,-Split-,($389.50),03/20/2026 04:15:00 PM
+,01/16/2026,Journal Entry,JE-3,Yes,,Accrual,Accrued Liabilities,-Split-,500.00,01/16/2026 05:00:00 PM
+
+TOTAL,,,,,,,,,"$-3,573.67",
+
+"Thursday, Oct 22, 2026 09:30:12 PM GMT-07:00"
