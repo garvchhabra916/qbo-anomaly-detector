@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.claude/
+
+# Scan output and live QBO pulls: never commit real client books.
+flagged.csv
+data/live.json
+data/real/
+*.qbo.csv

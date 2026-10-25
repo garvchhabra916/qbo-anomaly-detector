@@ -1,0 +1,1070 @@
+Transaction List by Date
+Sample Bookkeeping Co
+10/01/2025 - 09/30/2026
+
+,Date,Transaction Type,Num,Name,Account,Split,Amount,Create Date
+,10/01/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-763.85,10/03/2025 01:28:00 PM
+,10/01/2025,Expense,,Costco,Company Visa,Meals & Entertainment,-189.57,10/08/2025 08:23:00 AM
+,10/01/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-72.52,10/04/2025 04:17:00 PM
+,10/01/2025,Invoice,1001,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,10/01/2025,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,10/02/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-27.88,10/02/2025 11:10:00 AM
+,10/02/2025,Expense,,Uber,Company Visa,Travel,-61.18,10/12/2025 02:04:00 PM
+,10/02/2025,Expense,,USPS,Company Visa,Shipping & Postage,-8.93,10/05/2025 11:10:00 AM
+,10/02/2025,Expense,,Uber,Company Visa,Travel,-32.32,10/03/2025 04:46:00 PM
+,10/02/2025,Expense,,Amazon,Company Visa,Office Supplies,-82.74,10/04/2025 08:45:00 AM
+,10/02/2025,Expense,,Staples,Company Visa,Office Supplies,-194.05,10/12/2025 08:49:00 AM
+,10/03/2025,Expense,,Amazon,Company Visa,Office Supplies,-69.94,10/05/2025 02:42:00 PM
+,10/03/2025,Check,10016,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",10/08/2025 03:26:00 PM
+,10/03/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-47.60,10/08/2025 03:50:00 PM
+,10/03/2025,Expense,,Best Buy,Company Visa,Office Equipment,-749.96,10/05/2025 11:17:00 AM
+,10/03/2025,Expense,,Uber,Company Visa,Travel,-85.52,10/05/2025 12:42:00 PM
+,10/03/2025,Expense,,Staples,Company Visa,Office Supplies,-55.48,10/13/2025 04:48:00 PM
+,10/04/2025,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-149.91,10/07/2025 09:53:00 AM
+,10/06/2025,Expense,,Staples,Company Visa,Office Supplies,-74.42,10/16/2025 08:00:00 AM
+,10/06/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-53.59,10/08/2025 03:05:00 PM
+,10/06/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-443.94,10/08/2025 09:16:00 AM
+,10/06/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-33.85,10/07/2025 01:09:00 PM
+,10/07/2025,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-163.50,10/12/2025 06:06:00 PM
+,10/08/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-17.44,10/08/2025 11:09:00 AM
+,10/08/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-35.99,10/09/2025 11:10:00 AM
+,10/08/2025,Expense,,Uber,Company Visa,Travel,-33.43,10/13/2025 09:28:00 AM
+,10/08/2025,Check,10359,Facebook Ads,Business Checking,Advertising & Marketing,"-1,031.72",10/10/2025 06:28:00 PM
+,10/08/2025,Expense,,Amazon,Company Visa,Office Supplies,-191.36,10/18/2025 04:01:00 PM
+,10/08/2025,Check,10598,Nolo Legal Group,Business Checking,Legal & Professional Fees,"-3,000.00",10/18/2025 02:39:00 PM
+,10/08/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-36.20,10/13/2025 09:05:00 AM
+,10/08/2025,Expense,,Marriott,Company Visa,Travel,-255.73,10/08/2025 03:53:00 PM
+,10/08/2025,Expense,,Best Buy,Company Visa,Office Equipment,-313.58,10/10/2025 06:28:00 PM
+,10/08/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-661.98,10/13/2025 02:37:00 PM
+,10/08/2025,Expense,,Marriott,Company Visa,Travel,-348.83,10/10/2025 02:13:00 PM
+,10/08/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-22.46,10/08/2025 12:02:00 PM
+,10/09/2025,Expense,,Amazon,Company Visa,Office Supplies,-50.51,10/19/2025 01:45:00 PM
+,10/09/2025,Expense,,Uber,Company Visa,Travel,-25.81,10/12/2025 01:28:00 PM
+,10/09/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-26.30,10/10/2025 04:27:00 PM
+,10/09/2025,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-779.03,10/10/2025 12:58:00 PM
+,10/10/2025,Expense,,Home Depot,Company Visa,Office Equipment,-55.94,10/15/2025 09:48:00 AM
+,10/10/2025,Expense,,Amazon,Company Visa,Office Supplies,-198.14,10/10/2025 09:09:00 AM
+,10/10/2025,Expense,,Uber,Company Visa,Travel,-13.43,10/10/2025 01:12:00 PM
+,10/10/2025,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,10/10/2025 11:57:00 AM
+,10/10/2025,Expense,,Amazon,Company Visa,Office Supplies,-134.33,10/10/2025 02:33:00 PM
+,10/10/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-68.65,10/11/2025 06:02:00 PM
+,10/10/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-29.77,10/17/2025 08:48:00 AM
+,10/13/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-25.45,10/14/2025 04:10:00 PM
+,10/13/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-22.68,10/18/2025 02:52:00 PM
+,10/13/2025,Expense,,USPS,Company Visa,Shipping & Postage,-21.06,10/13/2025 10:50:00 AM
+,10/13/2025,Expense,,Amazon,Company Visa,Office Supplies,-88.69,10/18/2025 06:05:00 PM
+,10/14/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-265.06,10/14/2025 03:24:00 PM
+,10/14/2025,Expense,,USPS,Company Visa,Shipping & Postage,-14.76,10/16/2025 04:29:00 PM
+,10/14/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-690.98,10/15/2025 12:08:00 PM
+,10/16/2025,Expense,,USPS,Company Visa,Shipping & Postage,-15.16,10/18/2025 05:33:00 PM
+,10/16/2025,Check,10420,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,715.66",10/18/2025 08:04:00 AM
+,10/16/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-27.89,10/16/2025 12:04:00 PM
+,10/16/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-52.42,10/21/2025 11:05:00 AM
+,10/16/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-737.63,10/23/2025 03:08:00 PM
+,10/17/2025,Expense,,USPS,Company Visa,Shipping & Postage,-11.60,10/17/2025 01:18:00 PM
+,10/17/2025,Expense,,Uber,Company Visa,Travel,-26.61,10/24/2025 12:07:00 PM
+,10/17/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-68.73,10/17/2025 12:40:00 PM
+,10/17/2025,Expense,,Uber,Company Visa,Travel,-47.03,10/24/2025 05:08:00 PM
+,10/18/2025,Expense,,Comcast Business,Company Visa,Utilities,-189.99,10/18/2025 05:11:00 PM
+,10/18/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-65.72,10/18/2025 10:25:00 AM
+,10/20/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-36.15,10/30/2025 08:40:00 AM
+,10/20/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-264.55,10/22/2025 10:04:00 AM
+,10/21/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-25.63,10/23/2025 06:05:00 PM
+,10/21/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-26.86,10/22/2025 01:44:00 PM
+,10/21/2025,Expense,,USPS,Company Visa,Shipping & Postage,-14.02,10/21/2025 11:35:00 AM
+,10/21/2025,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,10/22/2025 03:39:00 PM
+,10/21/2025,Expense,,Delta Air Lines,Company Visa,Travel,-402.56,10/22/2025 06:52:00 PM
+,10/22/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-603.69,10/23/2025 09:41:00 AM
+,10/22/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-535.33,10/22/2025 11:16:00 AM
+,10/22/2025,Expense,,Delta Air Lines,Company Visa,Travel,-405.98,10/23/2025 10:58:00 AM
+,10/22/2025,Expense,,Amazon,Company Visa,Office Supplies,-183.39,10/29/2025 11:55:00 AM
+,10/22/2025,Expense,,Uber,Company Visa,Travel,-70.10,10/23/2025 10:18:00 AM
+,10/23/2025,Expense,,Delta Air Lines,Company Visa,Travel,-399.84,10/26/2025 05:48:00 PM
+,10/23/2025,Expense,,Uber,Company Visa,Travel,-30.68,10/28/2025 04:54:00 PM
+,10/23/2025,Expense,,Delta Air Lines,Company Visa,Travel,-432.48,11/02/2025 01:49:00 PM
+,10/23/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-24.95,10/24/2025 12:19:00 PM
+,10/23/2025,Check,10644,Google Ads,Business Checking,Advertising & Marketing,"-1,087.01",10/24/2025 01:22:00 PM
+,10/23/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-48.62,10/26/2025 12:11:00 PM
+,10/23/2025,Expense,,PG&E,Company Visa,Utilities,-425.73,10/23/2025 04:42:00 PM
+,10/23/2025,Expense,,Amazon,Company Visa,Office Equipment,-363.65,10/24/2025 11:08:00 AM
+,10/24/2025,Expense,,Costco,Company Visa,Meals & Entertainment,-227.74,10/25/2025 12:41:00 PM
+,10/24/2025,Expense,,Staples,Company Visa,Office Supplies,-364.89,10/24/2025 12:56:00 PM
+,10/24/2025,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,10/24/2025 06:33:00 PM
+,10/27/2025,Expense,,Uber,Company Visa,Travel,-31.30,10/27/2025 06:05:00 PM
+,10/27/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-60.85,10/27/2025 03:16:00 PM
+,10/27/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-42.23,10/27/2025 03:03:00 PM
+,10/27/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-20.78,11/03/2025 11:33:00 AM
+,10/28/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-74.79,10/31/2025 01:50:00 PM
+,10/28/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-18.99,10/28/2025 01:51:00 PM
+,10/29/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-667.71,10/30/2025 11:26:00 AM
+,10/29/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-717.14,11/05/2025 02:23:00 PM
+,10/30/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-726.37,10/30/2025 11:13:00 AM
+,10/30/2025,Expense,,Amazon,Company Visa,Office Equipment,-140.11,10/31/2025 01:55:00 PM
+,10/31/2025,Expense,,Delta Air Lines,Company Visa,Travel,-280.40,11/03/2025 06:31:00 PM
+,10/31/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-23.24,11/02/2025 02:41:00 PM
+,10/31/2025,Expense,,Amazon,Company Visa,Office Supplies,-81.90,10/31/2025 06:26:00 PM
+,10/31/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-86.39,11/01/2025 08:45:00 AM
+,11/01/2025,Invoice,1002,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,11/01/2025,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,11/03/2025,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-143.74,03/08/2026 03:27:00 PM
+,11/03/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-23.69,11/04/2025 11:35:00 AM
+,11/03/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-32.80,11/04/2025 04:35:00 PM
+,11/03/2025,Expense,,Amazon,Company Visa,Office Supplies,-63.16,11/05/2025 01:32:00 PM
+,11/03/2025,Check,10637,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",11/04/2025 05:05:00 PM
+,11/03/2025,Expense,,Uber,Company Visa,Travel,-47.65,11/06/2025 06:50:00 PM
+,11/04/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-31.16,11/09/2025 04:31:00 PM
+,11/04/2025,Expense,,Amazon,Company Visa,Office Supplies,-94.00,11/06/2025 02:38:00 PM
+,11/04/2025,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-121.63,11/04/2025 08:48:00 AM
+,11/04/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-48.47,11/07/2025 02:21:00 PM
+,11/04/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-369.80,11/14/2025 10:30:00 AM
+,11/04/2025,Expense,,Uber,Company Visa,Travel,-32.03,11/04/2025 11:30:00 AM
+,11/04/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-52.51,11/04/2025 09:16:00 AM
+,11/05/2025,Expense,,USPS,Company Visa,Shipping & Postage,-15.52,11/05/2025 06:26:00 PM
+,11/05/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-673.72,11/05/2025 12:34:00 PM
+,11/05/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-25.59,11/05/2025 03:50:00 PM
+,11/05/2025,Expense,,Costco,Company Visa,Meals & Entertainment,-150.49,11/06/2025 01:31:00 PM
+,11/06/2025,Expense,,Amazon,Company Visa,Office Equipment,-52.36,11/11/2025 01:03:00 PM
+,11/06/2025,Expense,,Uber,Company Visa,Travel,-37.86,11/06/2025 09:39:00 AM
+,11/06/2025,Expense,,Costco,Company Visa,Office Supplies,-136.54,11/09/2025 09:39:00 AM
+,11/06/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-10.80,11/08/2025 03:19:00 PM
+,11/06/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-19.19,11/11/2025 05:01:00 PM
+,11/06/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-57.14,11/13/2025 08:54:00 AM
+,11/06/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-24.68,11/07/2025 11:50:00 AM
+,11/07/2025,Expense,,USPS,Company Visa,Shipping & Postage,-12.35,11/14/2025 04:08:00 PM
+,11/07/2025,Expense,,Uber,Company Visa,Travel,-43.76,11/14/2025 12:02:00 PM
+,11/07/2025,Expense,,Amazon,Company Visa,Office Supplies,-170.69,11/08/2025 02:01:00 PM
+,11/09/2025,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-810.30,11/09/2025 06:51:00 PM
+,11/10/2025,Expense,,Nolo Legal Group,Company Visa,Legal & Professional Fees,-905.37,11/15/2025 04:18:00 PM
+,11/10/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-20.18,11/13/2025 05:25:00 PM
+,11/10/2025,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,11/11/2025 05:29:00 PM
+,11/12/2025,Expense,,USPS,Company Visa,Shipping & Postage,-17.42,11/22/2025 04:36:00 PM
+,11/12/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-41.49,11/12/2025 11:18:00 AM
+,11/12/2025,Expense,,Staples,Company Visa,Office Supplies,-94.85,11/14/2025 11:39:00 AM
+,11/13/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-804.69,11/18/2025 03:48:00 PM
+,11/13/2025,Expense,,Amazon,Company Visa,Office Equipment,-55.98,11/15/2025 04:35:00 PM
+,11/13/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-31.67,11/13/2025 12:19:00 PM
+,11/13/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-609.02,11/13/2025 06:08:00 PM
+,11/14/2025,Expense,,Best Buy,Company Visa,Office Equipment,-360.80,11/19/2025 08:21:00 AM
+,11/14/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-37.00,11/16/2025 01:09:00 PM
+,11/16/2025,Check,10888,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,108.11",11/16/2025 10:40:00 AM
+,11/17/2025,Expense,,Uber,Company Visa,Travel,-31.83,11/17/2025 04:13:00 PM
+,11/17/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-25.96,11/18/2025 11:23:00 AM
+,11/17/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-51.58,11/17/2025 11:31:00 AM
+,11/17/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-55.84,11/17/2025 10:49:00 AM
+,11/18/2025,Expense,,Comcast Business,Company Visa,Utilities,-189.99,11/25/2025 08:47:00 AM
+,11/18/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-885.06,11/19/2025 03:59:00 PM
+,11/18/2025,Expense,,Staples,Company Visa,Office Supplies,-82.95,11/28/2025 03:45:00 PM
+,11/18/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-31.87,11/20/2025 09:22:00 AM
+,11/18/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-60.92,11/19/2025 11:37:00 AM
+,11/19/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-58.17,11/20/2025 11:50:00 AM
+,11/19/2025,Expense,,Staples,Company Visa,Office Supplies,-177.40,11/26/2025 01:47:00 PM
+,11/19/2025,Expense,,Uber,Company Visa,Travel,-35.98,11/19/2025 06:12:00 PM
+,11/20/2025,Expense,,Amazon,Company Visa,Office Equipment,-73.07,11/20/2025 11:02:00 AM
+,11/21/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-53.67,11/22/2025 02:18:00 PM
+,11/21/2025,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,11/22/2025 11:37:00 AM
+,11/21/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-716.75,11/23/2025 09:30:00 AM
+,11/21/2025,Expense,,Uber,Company Visa,Travel,-12.53,11/22/2025 10:11:00 AM
+,11/21/2025,Expense,,USPS,Company Visa,Shipping & Postage,-8.32,11/21/2025 03:41:00 PM
+,11/23/2025,Expense,,PG&E,Company Visa,Utilities,-549.11,11/24/2025 12:53:00 PM
+,11/24/2025,Expense,,Staples,Company Visa,Office Supplies,-88.93,11/27/2025 04:25:00 PM
+,11/24/2025,Expense,,Marriott,Company Visa,Travel,-261.92,11/24/2025 03:11:00 PM
+,11/24/2025,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-117.99,11/24/2025 05:40:00 PM
+,11/24/2025,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,11/25/2025 10:44:00 AM
+,11/24/2025,Expense,,Amazon,Company Visa,Office Supplies,-91.68,12/04/2025 08:37:00 AM
+,11/25/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-648.34,12/05/2025 09:11:00 AM
+,11/25/2025,Expense,,Staples,Company Visa,Office Supplies,-92.08,12/02/2025 10:53:00 AM
+,11/25/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-39.96,11/27/2025 12:28:00 PM
+,11/25/2025,Expense,,Staples,Company Visa,Office Supplies,-48.87,11/25/2025 11:59:00 AM
+,11/25/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-16.76,11/25/2025 02:32:00 PM
+,11/26/2025,Expense,,Amazon,Company Visa,Office Supplies,-218.88,11/26/2025 08:34:00 AM
+,11/26/2025,Expense,,Amazon,Company Visa,Office Supplies,-34.59,11/27/2025 02:19:00 PM
+,11/26/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-32.73,12/01/2025 04:11:00 PM
+,11/26/2025,Expense,,Marriott,Company Visa,Travel,-271.42,11/27/2025 02:11:00 PM
+,11/26/2025,Expense,,Uber,Company Visa,Travel,-28.99,03/29/2026 01:43:00 PM
+,11/27/2025,Expense,,Staples,Company Visa,Office Supplies,-44.45,11/27/2025 06:14:00 PM
+,11/27/2025,Expense,,Nolo Legal Group,Company Visa,Legal & Professional Fees,-449.73,12/02/2025 01:15:00 PM
+,11/28/2025,Expense,,Staples,Company Visa,Office Supplies,-97.17,11/30/2025 06:19:00 PM
+,11/28/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-21.89,11/29/2025 06:14:00 PM
+,11/28/2025,Expense,,Uber,Company Visa,Travel,-13.65,11/28/2025 01:14:00 PM
+,11/28/2025,Expense,,Costco,Company Visa,Office Supplies,-148.74,12/03/2025 11:50:00 AM
+,12/01/2025,Expense,,Delta Air Lines,Company Visa,Travel,-358.43,12/11/2025 05:10:00 PM
+,12/01/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-25.68,12/03/2025 01:21:00 PM
+,12/01/2025,Expense,,Uber,Company Visa,Travel,-13.83,12/01/2025 05:33:00 PM
+,12/01/2025,Invoice,1003,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,12/01/2025,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,12/02/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-44.88,12/02/2025 10:45:00 AM
+,12/03/2025,Expense,,Uber,Company Visa,Travel,-18.48,12/10/2025 09:23:00 AM
+,12/03/2025,Expense,,USPS,Company Visa,Shipping & Postage,-9.98,12/03/2025 05:24:00 PM
+,12/03/2025,Expense,,Uber,Company Visa,Travel,-18.38,12/03/2025 04:51:00 PM
+,12/03/2025,Check,10990,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",12/06/2025 10:05:00 AM
+,12/04/2025,Expense,,Uber,Company Visa,Travel,-13.78,12/14/2025 04:10:00 PM
+,12/04/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-39.53,12/05/2025 10:36:00 AM
+,12/04/2025,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-53.21,12/04/2025 02:01:00 PM
+,12/05/2025,Expense,,Staples,Company Visa,Office Supplies,-46.06,12/05/2025 06:59:00 PM
+,12/07/2025,Expense,,USPS,Company Visa,Shipping & Postage,-8.46,12/14/2025 09:23:00 AM
+,12/08/2025,Expense,,Uber,Company Visa,Travel,-16.64,12/10/2025 01:01:00 PM
+,12/09/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-531.13,12/09/2025 05:19:00 PM
+,12/09/2025,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-640.29,12/16/2025 08:51:00 AM
+,12/09/2025,Expense,,Amazon,Company Visa,Office Supplies,-226.56,12/09/2025 05:52:00 PM
+,12/10/2025,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,12/13/2025 01:15:00 PM
+,12/10/2025,Expense,,USPS,Company Visa,Shipping & Postage,-13.58,12/13/2025 03:43:00 PM
+,12/11/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-48.24,12/12/2025 12:14:00 PM
+,12/11/2025,Expense,,Uber,Company Visa,Travel,-25.36,12/16/2025 12:03:00 PM
+,12/11/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-36.26,12/12/2025 11:14:00 AM
+,12/11/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-17.88,12/21/2025 01:07:00 PM
+,12/11/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-19.68,12/18/2025 11:12:00 AM
+,12/11/2025,Expense,,Uber,Company Visa,Travel,-35.45,12/11/2025 01:39:00 PM
+,12/11/2025,Expense,,Amazon,Company Visa,Office Supplies,-121.01,12/12/2025 09:18:00 AM
+,12/11/2025,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-57.28,12/11/2025 12:24:00 PM
+,12/11/2025,Expense,,Staples,Company Visa,Office Supplies,-107.60,12/11/2025 01:40:00 PM
+,12/12/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-89.40,12/17/2025 04:12:00 PM
+,12/12/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-69.12,12/13/2025 11:31:00 AM
+,12/15/2025,Expense,,Uber,Company Visa,Travel,-37.02,12/16/2025 06:49:00 PM
+,12/15/2025,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-114.99,12/16/2025 11:41:00 AM
+,12/15/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-27.10,12/18/2025 09:18:00 AM
+,12/15/2025,Expense,,Costco,Company Visa,Meals & Entertainment,-478.77,12/15/2025 05:43:00 PM
+,12/16/2025,Expense,,Smith & Lee CPAs,Company Visa,Legal & Professional Fees,-994.07,12/23/2025 04:42:00 PM
+,12/16/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-30.04,12/17/2025 04:13:00 PM
+,12/16/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-602.17,12/23/2025 11:06:00 AM
+,12/16/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-29.44,12/23/2025 03:04:00 PM
+,12/16/2025,Expense,,Uber,Company Visa,Travel,-39.88,12/16/2025 04:05:00 PM
+,12/16/2025,Expense,,Uber,Company Visa,Travel,-25.41,12/17/2025 08:34:00 AM
+,12/17/2025,Expense,,Costco,Company Visa,Meals & Entertainment,-140.64,12/17/2025 03:45:00 PM
+,12/17/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-71.55,12/18/2025 10:15:00 AM
+,12/17/2025,Expense,,Uber,Company Visa,Travel,-37.04,12/22/2025 09:50:00 AM
+,12/17/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-26.91,12/22/2025 09:12:00 AM
+,12/18/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-75.90,12/25/2025 12:08:00 PM
+,12/18/2025,Expense,,Uber,Company Visa,Travel,-10.16,12/28/2025 01:27:00 PM
+,12/18/2025,Expense,,Comcast Business,Company Visa,Utilities,-189.99,12/23/2025 04:39:00 PM
+,12/19/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-28.36,12/24/2025 01:34:00 PM
+,12/19/2025,Expense,,Marriott,Company Visa,Travel,-309.27,12/22/2025 12:21:00 PM
+,12/19/2025,Expense,,Uber,Company Visa,Travel,-40.28,12/26/2025 06:02:00 PM
+,12/19/2025,Expense,,Uber,Company Visa,Travel,-53.33,12/19/2025 08:35:00 AM
+,12/20/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-739.42,12/20/2025 03:32:00 PM
+,12/21/2025,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,12/21/2025 02:05:00 PM
+,12/23/2025,Expense,,PG&E,Company Visa,Utilities,-394.70,12/28/2025 10:21:00 AM
+,12/23/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-16.59,12/23/2025 12:42:00 PM
+,12/23/2025,Expense,,USPS,Company Visa,Shipping & Postage,-14.49,12/24/2025 06:19:00 PM
+,12/23/2025,Expense,,Uber,Company Visa,Travel,-43.12,12/28/2025 06:45:00 PM
+,12/24/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-59.70,12/29/2025 08:03:00 AM
+,12/24/2025,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,01/03/2026 03:01:00 PM
+,12/24/2025,Expense,,Marriott,Company Visa,Travel,-309.95,12/24/2025 04:29:00 PM
+,12/24/2025,Expense,,Amazon,Company Visa,Office Equipment,-127.35,12/26/2025 11:51:00 AM
+,12/24/2025,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-97.95,12/24/2025 12:37:00 PM
+,12/24/2025,Expense,,Amazon,Company Visa,Office Supplies,-86.85,01/03/2026 02:43:00 PM
+,12/25/2025,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-27.04,01/04/2026 04:49:00 PM
+,12/25/2025,Check,10319,Apex Consulting LLC,Business Checking,Legal & Professional Fees,"-4,666.73",12/25/2025 03:04:00 PM
+,12/25/2025,Expense,,Uber,Company Visa,Travel,-20.49,12/25/2025 09:23:00 AM
+,12/25/2025,Check,10759,Vistaprint,Business Checking,Advertising & Marketing,"-4,929.50",12/26/2025 11:02:00 AM
+,12/26/2025,Expense,,Staples,Company Visa,Office Equipment,-114.22,12/28/2025 04:07:00 PM
+,12/26/2025,Expense,,Uber,Company Visa,Travel,-29.49,01/05/2026 08:08:00 AM
+,12/26/2025,Expense,,Uber,Company Visa,Travel,-51.09,01/02/2026 12:49:00 PM
+,12/26/2025,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-340.55,01/02/2026 12:43:00 PM
+,12/29/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-125.55,12/29/2025 12:54:00 PM
+,12/29/2025,Expense,,Amazon,Company Visa,Office Supplies,-106.36,01/03/2026 11:02:00 AM
+,12/29/2025,Expense,,Costco,Company Visa,Meals & Entertainment,-373.02,12/31/2025 01:43:00 PM
+,12/29/2025,Expense,,FedEx,Company Visa,Shipping & Postage,-12.38,01/05/2026 10:07:00 AM
+,12/30/2025,Expense,,Staples,Company Visa,Office Supplies,-212.96,01/09/2026 09:52:00 AM
+,12/30/2025,Expense,,Costco,Company Visa,Office Supplies,-184.92,12/30/2025 06:04:00 PM
+,12/30/2025,Expense,,Google Ads,Company Visa,Advertising & Marketing,-715.43,12/31/2025 01:38:00 PM
+,12/30/2025,Expense,,Chipotle,Company Visa,Meals & Entertainment,-39.45,12/30/2025 12:50:00 PM
+,12/30/2025,Expense,,Chevron,Company Visa,Auto & Fuel,-74.71,01/04/2026 04:06:00 PM
+,12/31/2025,Expense,,Marriott,Company Visa,Travel,-269.87,01/05/2026 06:00:00 PM
+,01/01/2026,Expense,,Amazon,Company Visa,Office Supplies,-112.78,01/02/2026 05:46:00 PM
+,01/01/2026,Expense,,Costco,Company Visa,Office Supplies,-296.93,01/01/2026 06:00:00 PM
+,01/01/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-44.85,01/02/2026 03:40:00 PM
+,01/01/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-22.80,01/06/2026 09:23:00 AM
+,01/01/2026,Invoice,1004,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,01/01/2026,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,01/02/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-74.27,01/03/2026 05:06:00 PM
+,01/03/2026,Check,10550,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",01/05/2026 06:44:00 PM
+,01/04/2026,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-141.68,01/09/2026 10:11:00 AM
+,01/05/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-830.12,01/05/2026 03:42:00 PM
+,01/05/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-119.05,01/05/2026 11:16:00 AM
+,01/05/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-70.53,01/12/2026 12:06:00 PM
+,01/05/2026,Expense,,Amazon,Company Visa,Office Supplies,-352.84,01/05/2026 02:35:00 PM
+,01/05/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-123.67,01/06/2026 02:22:00 PM
+,01/06/2026,Expense,,Uber,Company Visa,Travel,-50.36,01/06/2026 11:09:00 AM
+,01/06/2026,Expense,,Amazon,Company Visa,Office Supplies,-192.86,01/11/2026 11:06:00 AM
+,01/06/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-472.16,01/16/2026 11:31:00 AM
+,01/06/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-20.15,01/09/2026 12:28:00 PM
+,01/07/2026,Expense,,Uber,Company Visa,Travel,-23.27,01/08/2026 11:39:00 AM
+,01/07/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-28.30,01/08/2026 05:33:00 PM
+,01/07/2026,Expense,,USPS,Company Visa,Shipping & Postage,-9.43,01/07/2026 09:48:00 AM
+,01/08/2026,Expense,,Uber,Company Visa,Travel,-31.71,01/13/2026 02:49:00 PM
+,01/08/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-690.59,01/08/2026 12:04:00 PM
+,01/08/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-21.00,01/08/2026 04:44:00 PM
+,01/09/2026,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-880.81,01/09/2026 12:39:00 PM
+,01/09/2026,Expense,,Amazon,Company Visa,Office Supplies,-181.08,01/10/2026 02:46:00 PM
+,01/09/2026,Expense,,USPS,Company Visa,Shipping & Postage,-10.81,01/10/2026 12:11:00 PM
+,01/09/2026,Expense,,Marriott,Company Visa,Travel,-357.49,01/19/2026 02:48:00 PM
+,01/09/2026,Expense,,Uber,Company Visa,Travel,-39.59,01/09/2026 06:13:00 PM
+,01/10/2026,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,01/15/2026 06:15:00 PM
+,01/12/2026,Expense,,Uber,Company Visa,Travel,-29.50,01/22/2026 01:30:00 PM
+,01/12/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-55.36,01/12/2026 06:38:00 PM
+,01/12/2026,Check,10399,Nolo Legal Group,Business Checking,Legal & Professional Fees,"-1,129.20",01/12/2026 09:59:00 AM
+,01/12/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-534.73,01/13/2026 12:31:00 PM
+,01/12/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-63.32,01/12/2026 01:11:00 PM
+,01/12/2026,Expense,,Uber,Company Visa,Travel,-38.56,01/12/2026 03:32:00 PM
+,01/12/2026,Expense,,USPS,Company Visa,Shipping & Postage,-16.04,01/22/2026 02:42:00 PM
+,01/13/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-64.16,01/23/2026 10:26:00 AM
+,01/13/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-26.15,01/18/2026 08:36:00 AM
+,01/13/2026,Expense,,Best Buy,Company Visa,Office Equipment,-280.17,01/14/2026 10:13:00 AM
+,01/13/2026,Expense,,Uber,Company Visa,Travel,-50.33,01/13/2026 02:10:00 PM
+,01/13/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-945.49,01/13/2026 06:02:00 PM
+,01/13/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-460.25,01/13/2026 02:37:00 PM
+,01/14/2026,Expense,,Amazon,Company Visa,Office Equipment,-44.54,01/14/2026 08:30:00 AM
+,01/14/2026,Expense,,Amazon,Company Visa,Office Equipment,-119.13,01/14/2026 09:30:00 AM
+,01/14/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-99.62,01/24/2026 11:07:00 AM
+,01/15/2026,Expense,,Amazon,Company Visa,Office Equipment,-65.26,01/15/2026 06:36:00 PM
+,01/15/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-698.01,01/16/2026 04:29:00 PM
+,01/15/2026,Expense,,Uber,Company Visa,Travel,-36.51,01/15/2026 03:50:00 PM
+,01/15/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-72.31,01/17/2026 02:25:00 PM
+,01/15/2026,Expense,,Delta Air Lines,Company Visa,Travel,-276.15,01/15/2026 12:04:00 PM
+,01/15/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-14.99,01/15/2026 09:11:00 AM
+,01/16/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-816.56,01/21/2026 05:55:00 PM
+,01/16/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-13.52,01/17/2026 12:56:00 PM
+,01/16/2026,Expense,,Uber,Company Visa,Travel,-24.61,01/19/2026 08:59:00 AM
+,01/16/2026,Check,10936,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,177.23",01/23/2026 06:59:00 PM
+,01/16/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-643.60,01/17/2026 02:33:00 PM
+,01/18/2026,Expense,,Comcast Business,Company Visa,Utilities,-189.99,01/19/2026 03:16:00 PM
+,01/19/2026,Expense,,Amazon,Company Visa,Office Supplies,-248.39,01/20/2026 12:25:00 PM
+,01/19/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-19.56,01/22/2026 01:28:00 PM
+,01/19/2026,Expense,,Uber,Company Visa,Travel,-28.92,01/20/2026 06:45:00 PM
+,01/19/2026,Expense,,Uber,Company Visa,Travel,-16.33,01/21/2026 04:03:00 PM
+,01/19/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-36.66,01/19/2026 12:28:00 PM
+,01/20/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-24.74,01/21/2026 12:00:00 PM
+,01/20/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-50.22,01/27/2026 12:16:00 PM
+,01/20/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-809.98,01/30/2026 03:03:00 PM
+,01/20/2026,Expense,,Amazon,Company Visa,Office Equipment,-192.17,01/22/2026 02:39:00 PM
+,01/21/2026,Expense,,USPS,Company Visa,Shipping & Postage,-18.45,01/21/2026 08:09:00 AM
+,01/21/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-29.08,01/23/2026 04:49:00 PM
+,01/21/2026,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,01/24/2026 02:05:00 PM
+,01/21/2026,Expense,,Delta Air Lines,Company Visa,Travel,-272.51,01/24/2026 12:26:00 PM
+,01/21/2026,Expense,,Uber,Company Visa,Travel,-38.32,01/23/2026 10:00:00 AM
+,01/21/2026,Expense,,Uber,Company Visa,Travel,-25.75,01/22/2026 03:45:00 PM
+,01/22/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-48.96,01/22/2026 09:17:00 AM
+,01/22/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-35.99,01/29/2026 11:56:00 AM
+,01/22/2026,Expense,,Staples,Company Visa,Office Equipment,-54.12,01/29/2026 10:57:00 AM
+,01/23/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-25.24,01/30/2026 09:41:00 AM
+,01/23/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-734.57,01/25/2026 09:08:00 AM
+,01/23/2026,Expense,,Uber,Company Visa,Travel,-32.88,01/23/2026 12:42:00 PM
+,01/23/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-23.39,01/30/2026 02:14:00 PM
+,01/23/2026,Expense,,PG&E,Company Visa,Utilities,-462.61,01/24/2026 02:09:00 PM
+,01/23/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-10.77,01/28/2026 05:26:00 PM
+,01/23/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-881.52,01/24/2026 03:41:00 PM
+,01/23/2026,Expense,,Uber,Company Visa,Travel,-41.22,01/24/2026 08:00:00 AM
+,01/24/2026,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,01/25/2026 04:23:00 PM
+,01/26/2026,Expense,,Uber,Company Visa,Travel,-22.22,01/26/2026 12:48:00 PM
+,01/26/2026,Expense,,Marriott,Company Visa,Travel,-368.77,01/26/2026 01:34:00 PM
+,01/26/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-79.45,02/02/2026 02:50:00 PM
+,01/26/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-85.37,01/27/2026 10:43:00 AM
+,01/26/2026,Expense,,Staples,Company Visa,Office Supplies,-87.26,02/02/2026 02:46:00 PM
+,01/26/2026,Check,10910,Google Ads,Business Checking,Advertising & Marketing,"-1,468.10",01/27/2026 03:30:00 PM
+,01/26/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-339.42,02/05/2026 12:31:00 PM
+,01/27/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-284.18,01/30/2026 11:01:00 AM
+,01/27/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-31.56,01/27/2026 06:17:00 PM
+,01/28/2026,Expense,,Uber,Company Visa,Travel,-32.05,02/02/2026 03:27:00 PM
+,01/28/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-47.63,02/04/2026 02:38:00 PM
+,01/28/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-43.22,01/29/2026 11:11:00 AM
+,01/28/2026,Expense,,Marriott,Company Visa,Travel,-274.15,01/28/2026 04:09:00 PM
+,01/29/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-61.28,01/30/2026 09:22:00 AM
+,01/29/2026,Expense,,Marriott,Company Visa,Travel,-403.53,01/31/2026 05:59:00 PM
+,01/29/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-54.91,01/31/2026 02:56:00 PM
+,01/29/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-63.29,01/31/2026 02:18:00 PM
+,01/29/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-17.59,01/30/2026 08:29:00 AM
+,01/30/2026,Expense,,USPS,Company Visa,Shipping & Postage,-24.74,01/30/2026 10:41:00 AM
+,01/30/2026,Expense,,Staples,Company Visa,Office Supplies,-65.23,02/01/2026 09:22:00 AM
+,02/01/2026,Invoice,1005,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,02/01/2026,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,02/02/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-411.26,02/02/2026 12:56:00 PM
+,02/02/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-49.87,02/07/2026 02:41:00 PM
+,02/02/2026,Expense,,Amazon,Company Visa,Office Supplies,-88.17,02/04/2026 09:01:00 AM
+,02/02/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-49.04,02/05/2026 06:33:00 PM
+,02/02/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-209.84,02/05/2026 04:49:00 PM
+,02/02/2026,Expense,,USPS,Company Visa,Shipping & Postage,-21.33,02/02/2026 03:00:00 PM
+,02/02/2026,Expense,,Marriott,Company Visa,Travel,-390.47,02/05/2026 11:12:00 AM
+,02/03/2026,Check,10166,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",02/08/2026 03:47:00 PM
+,02/03/2026,Expense,,Uber,Company Visa,Travel,-39.89,02/03/2026 09:13:00 AM
+,02/03/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-93.48,02/13/2026 04:31:00 PM
+,02/04/2026,Expense,,Best Buy,Company Visa,Office Equipment,-355.59,02/05/2026 09:52:00 AM
+,02/04/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-45.12,02/04/2026 12:17:00 PM
+,02/04/2026,Expense,,Amazon,Company Visa,Office Supplies,-154.41,02/11/2026 10:47:00 AM
+,02/04/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-940.55,02/05/2026 03:06:00 PM
+,02/04/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-63.37,02/05/2026 11:55:00 AM
+,02/04/2026,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-175.05,02/06/2026 12:44:00 PM
+,02/04/2026,Expense,,USPS,Company Visa,Shipping & Postage,-40.76,02/05/2026 09:31:00 AM
+,02/04/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-48.77,02/04/2026 11:41:00 AM
+,02/04/2026,Expense,,Amazon,Company Visa,Office Supplies,-45.52,02/11/2026 05:54:00 PM
+,02/04/2026,Expense,,Uber,Company Visa,Travel,-47.04,02/14/2026 06:42:00 PM
+,02/04/2026,Expense,,USPS,Company Visa,Shipping & Postage,-14.22,02/05/2026 01:07:00 PM
+,02/05/2026,Expense,,Uber,Company Visa,Travel,-37.05,02/07/2026 09:31:00 AM
+,02/05/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-19.58,02/05/2026 09:04:00 AM
+,02/05/2026,Expense,,Uber,Company Visa,Travel,-43.62,02/07/2026 08:22:00 AM
+,02/05/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-63.70,02/05/2026 09:47:00 AM
+,02/06/2026,Expense,,Uber,Company Visa,Travel,-18.60,02/16/2026 05:56:00 PM
+,02/06/2026,Expense,,USPS,Company Visa,Shipping & Postage,-14.61,02/13/2026 11:54:00 AM
+,02/06/2026,Expense,,Marriott,Company Visa,Travel,-319.58,02/07/2026 12:32:00 PM
+,02/06/2026,Expense,,Uber,Company Visa,Travel,-65.70,02/06/2026 06:13:00 PM
+,02/09/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-21.72,02/09/2026 01:30:00 PM
+,02/09/2026,Expense,,Amazon,Company Visa,Office Supplies,-284.34,02/19/2026 06:51:00 PM
+,02/09/2026,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-763.89,02/11/2026 04:59:00 PM
+,02/10/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-275.36,02/11/2026 11:19:00 AM
+,02/10/2026,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,02/15/2026 10:43:00 AM
+,02/11/2026,Expense,,Uber,Company Visa,Travel,-38.39,02/11/2026 09:50:00 AM
+,02/11/2026,Expense,,Staples,Company Visa,Office Supplies,-82.43,02/11/2026 03:14:00 PM
+,02/11/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-70.33,02/11/2026 06:30:00 PM
+,02/11/2026,Expense,,USPS,Company Visa,Shipping & Postage,-13.71,02/11/2026 12:57:00 PM
+,02/11/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-200.98,02/18/2026 02:08:00 PM
+,02/13/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-46.06,02/15/2026 08:46:00 AM
+,02/13/2026,Expense,,Costco,Company Visa,Office Supplies,-218.79,02/13/2026 04:02:00 PM
+,02/13/2026,Expense,,Delta Air Lines,Company Visa,Travel,-743.32,02/18/2026 09:26:00 AM
+,02/13/2026,Expense,,Uber,Company Visa,Travel,-47.52,02/14/2026 01:02:00 PM
+,02/14/2026,Expense,,Amazon,Company Visa,Office Supplies,-143.49,02/21/2026 06:04:00 PM
+,02/16/2026,Expense,,Uber,Company Visa,Travel,-29.88,02/26/2026 04:19:00 PM
+,02/16/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-80.63,02/17/2026 04:12:00 PM
+,02/16/2026,Expense,,Uber,Company Visa,Travel,-29.43,02/17/2026 10:36:00 AM
+,02/16/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-18.20,02/18/2026 03:26:00 PM
+,02/16/2026,Expense,,Marriott,Company Visa,Travel,-379.45,02/18/2026 06:26:00 PM
+,02/16/2026,Check,10687,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,216.79",02/23/2026 05:53:00 PM
+,02/17/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-46.03,02/20/2026 09:47:00 AM
+,02/18/2026,Expense,,Amazon,Company Visa,Office Supplies,-96.58,02/19/2026 01:28:00 PM
+,02/18/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-46.06,02/28/2026 10:00:00 AM
+,02/18/2026,Expense,,Comcast Business,Company Visa,Utilities,-189.99,02/23/2026 02:27:00 PM
+,02/18/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-653.00,02/18/2026 01:48:00 PM
+,02/18/2026,Expense,,Staples,Company Visa,Office Supplies,-98.56,02/18/2026 09:26:00 AM
+,02/19/2026,Expense,,Amazon,Company Visa,Office Equipment,-123.23,02/19/2026 12:32:00 PM
+,02/19/2026,Expense,,Amazon,Company Visa,Office Supplies,-113.96,02/22/2026 10:45:00 AM
+,02/20/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-26.51,02/22/2026 03:45:00 PM
+,02/20/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-61.72,02/21/2026 11:26:00 AM
+,02/20/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-25.67,02/25/2026 11:38:00 AM
+,02/21/2026,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,02/26/2026 12:47:00 PM
+,02/23/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-22.11,02/25/2026 11:54:00 AM
+,02/23/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-59.24,03/05/2026 10:19:00 AM
+,02/23/2026,Expense,,Amazon,Company Visa,Office Equipment,-123.74,02/24/2026 09:00:00 AM
+,02/23/2026,Expense,,PG&E,Company Visa,Utilities,-468.69,03/05/2026 04:21:00 PM
+,02/24/2026,Expense,,Amazon,Company Visa,Office Equipment,-271.80,02/24/2026 10:24:00 AM
+,02/24/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-21.16,03/06/2026 05:38:00 PM
+,02/24/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-72.68,03/03/2026 04:59:00 PM
+,02/24/2026,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,03/01/2026 03:04:00 PM
+,02/24/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-20.87,03/03/2026 09:49:00 AM
+,02/24/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-71.29,02/27/2026 08:52:00 AM
+,02/24/2026,Expense,,Uber,Company Visa,Travel,-55.22,02/27/2026 06:25:00 PM
+,02/24/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-36.74,02/25/2026 03:21:00 PM
+,02/25/2026,Expense,,Amazon,Company Visa,Office Supplies,-417.25,03/07/2026 09:56:00 AM
+,02/25/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-26.25,02/26/2026 03:37:00 PM
+,02/25/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-48.63,02/25/2026 09:23:00 AM
+,02/25/2026,Expense,,Uber,Company Visa,Travel,-23.61,03/04/2026 08:09:00 AM
+,02/26/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-61.24,03/03/2026 01:40:00 PM
+,02/26/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-49.61,02/28/2026 10:10:00 AM
+,02/27/2026,Expense,,Staples,Company Visa,Office Supplies,-183.19,02/28/2026 12:15:00 PM
+,02/27/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-121.89,02/27/2026 12:19:00 PM
+,02/27/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-24.77,02/27/2026 08:45:00 AM
+,03/01/2026,Invoice,1006,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,03/01/2026,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,03/02/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-413.73,03/02/2026 10:57:00 AM
+,03/02/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-34.84,03/03/2026 11:05:00 AM
+,03/02/2026,Expense,,Uber,Company Visa,Travel,-58.01,03/07/2026 04:10:00 PM
+,03/03/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-12.38,03/08/2026 10:19:00 AM
+,03/03/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-65.01,03/13/2026 12:06:00 PM
+,03/03/2026,Expense,,Uber,Company Visa,Travel,-20.09,03/03/2026 02:15:00 PM
+,03/03/2026,Check,10301,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",03/05/2026 09:50:00 AM
+,03/03/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-84.05,03/04/2026 10:51:00 AM
+,03/03/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-30.59,03/08/2026 03:18:00 PM
+,03/04/2026,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-101.31,03/04/2026 10:21:00 AM
+,03/05/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-602.63,03/07/2026 04:27:00 PM
+,03/05/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-75.32,03/10/2026 10:01:00 AM
+,03/05/2026,Expense,,Uber,Company Visa,Travel,-27.85,03/05/2026 09:52:00 AM
+,03/05/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-637.52,03/05/2026 04:26:00 PM
+,03/05/2026,Expense,,Amazon,Company Visa,Office Equipment,-144.88,03/08/2026 06:25:00 PM
+,03/05/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-770.37,03/10/2026 03:06:00 PM
+,03/05/2026,Expense,,Nolo Legal Group,Company Visa,Legal & Professional Fees,-698.61,03/10/2026 10:39:00 AM
+,03/06/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-75.48,03/16/2026 11:26:00 AM
+,03/06/2026,Expense,,Uber,Company Visa,Travel,-80.28,03/11/2026 02:18:00 PM
+,03/06/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-766.94,03/13/2026 05:37:00 PM
+,03/06/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-71.09,03/13/2026 01:57:00 PM
+,03/06/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-31.27,03/07/2026 02:07:00 PM
+,03/09/2026,Expense,,Amazon,Company Visa,Office Equipment,-272.00,03/16/2026 03:09:00 PM
+,03/09/2026,Expense,,USPS,Company Visa,Shipping & Postage,-8.83,03/09/2026 05:06:00 PM
+,03/09/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-69.11,03/19/2026 01:22:00 PM
+,03/09/2026,Expense,,Uber,Company Visa,Travel,-28.72,03/14/2026 05:20:00 PM
+,03/09/2026,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-786.74,03/12/2026 12:48:00 PM
+,03/09/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-27.19,03/09/2026 10:41:00 AM
+,03/10/2026,Expense,,Uber,Company Visa,Travel,-27.00,03/17/2026 11:27:00 AM
+,03/10/2026,Expense,,Best Buy,Company Visa,Office Equipment,-563.85,03/17/2026 04:40:00 PM
+,03/10/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-56.96,03/17/2026 05:00:00 PM
+,03/10/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-64.83,03/12/2026 04:48:00 PM
+,03/10/2026,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,03/15/2026 12:44:00 PM
+,03/10/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-44.20,03/10/2026 11:25:00 AM
+,03/10/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-116.68,03/10/2026 05:07:00 PM
+,03/10/2026,Expense,,Delta Air Lines,Company Visa,Travel,-366.81,03/10/2026 04:57:00 PM
+,03/11/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-228.90,03/18/2026 03:39:00 PM
+,03/11/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-266.49,03/21/2026 04:23:00 PM
+,03/12/2026,Expense,,Marriott,Company Visa,Travel,-473.58,03/13/2026 04:37:00 PM
+,03/12/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-40.23,03/12/2026 04:35:00 PM
+,03/12/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-17.50,03/12/2026 02:32:00 PM
+,03/12/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-26.10,03/12/2026 12:52:00 PM
+,03/12/2026,Expense,,Staples,Company Visa,Office Supplies,-51.20,03/17/2026 08:15:00 AM
+,03/12/2026,Expense,,Marriott,Company Visa,Travel,-313.06,03/22/2026 02:10:00 PM
+,03/13/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-72.18,03/14/2026 02:41:00 PM
+,03/13/2026,Expense,,Amazon,Company Visa,Office Supplies,-107.08,03/14/2026 05:11:00 PM
+,03/13/2026,Expense,,Uber,Company Visa,Travel,-15.10,03/13/2026 10:05:00 AM
+,03/13/2026,Expense,,Amazon,Company Visa,Office Equipment,-70.43,03/13/2026 08:16:00 AM
+,03/13/2026,Expense,,Delta Air Lines,Company Visa,Travel,-291.56,03/23/2026 10:19:00 AM
+,03/16/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-19.01,03/16/2026 09:27:00 AM
+,03/16/2026,Expense,,Uber,Company Visa,Travel,-37.72,03/17/2026 10:27:00 AM
+,03/16/2026,Check,10340,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,450.00",03/23/2026 12:48:00 PM
+,03/17/2026,Expense,,Uber,Company Visa,Travel,-54.36,03/20/2026 06:45:00 PM
+,03/17/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-585.63,03/18/2026 06:15:00 PM
+,03/17/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-46.98,03/24/2026 09:31:00 AM
+,03/17/2026,Expense,,Costco,Company Visa,Office Supplies,-187.54,03/22/2026 02:29:00 PM
+,03/18/2026,Expense,,Uber,Company Visa,Travel,-40.65,03/19/2026 03:45:00 PM
+,03/18/2026,Expense,,Comcast Business,Company Visa,Utilities,-189.99,03/20/2026 02:02:00 PM
+,03/18/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-53.21,03/18/2026 01:21:00 PM
+,03/19/2026,Expense,,Uber,Company Visa,Travel,-23.61,03/22/2026 03:06:00 PM
+,03/19/2026,Expense,,Uber,Company Visa,Travel,-20.21,03/19/2026 12:29:00 PM
+,03/19/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-53.27,03/22/2026 06:24:00 PM
+,03/19/2026,Expense,,Nolo Legal Group,Company Visa,Legal & Professional Fees,-819.96,03/19/2026 08:05:00 AM
+,03/20/2026,Expense,,Uber,Company Visa,Travel,-55.09,03/20/2026 11:11:00 AM
+,03/20/2026,Expense,,Staples,Company Visa,Office Supplies,-155.33,03/20/2026 05:15:00 PM
+,03/20/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-11.42,03/27/2026 01:33:00 PM
+,03/20/2026,Expense,,Amazon,Company Visa,Office Supplies,-236.11,03/27/2026 02:14:00 PM
+,03/20/2026,Expense,,Uber,Company Visa,Travel,-35.37,03/30/2026 11:52:00 AM
+,03/20/2026,Expense,,Amazon,Company Visa,Office Supplies,-141.86,03/20/2026 01:05:00 PM
+,03/21/2026,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,03/21/2026 09:29:00 AM
+,03/23/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-23.47,03/23/2026 08:59:00 AM
+,03/23/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-49.56,03/24/2026 09:23:00 AM
+,03/23/2026,Expense,,Uber,Company Visa,Travel,-18.29,03/30/2026 03:49:00 PM
+,03/23/2026,Expense,,PG&E,Company Visa,Utilities,-388.13,04/02/2026 05:22:00 PM
+,03/23/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-807.19,03/23/2026 08:40:00 AM
+,03/24/2026,Expense,,Nolo Legal Group,Company Visa,Legal & Professional Fees,-592.00,03/25/2026 04:03:00 PM
+,03/24/2026,Expense,,Marriott,Company Visa,Travel,-190.33,03/29/2026 08:06:00 AM
+,03/24/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-787.27,03/27/2026 04:46:00 PM
+,03/24/2026,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,03/26/2026 09:29:00 AM
+,03/24/2026,Expense,,Staples,Company Visa,Office Supplies,-201.61,03/25/2026 12:30:00 PM
+,03/24/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-31.23,04/03/2026 03:59:00 PM
+,03/25/2026,Expense,,Costco,Company Visa,Office Supplies,-265.85,04/04/2026 10:09:00 AM
+,03/25/2026,Expense,,Uber,Company Visa,Travel,-11.86,03/30/2026 02:54:00 PM
+,03/25/2026,Expense,,Amazon,Company Visa,Office Supplies,-142.17,03/25/2026 06:28:00 PM
+,03/25/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-57.25,04/01/2026 11:10:00 AM
+,03/25/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-60.45,03/25/2026 09:12:00 AM
+,03/26/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-907.31,03/28/2026 05:24:00 PM
+,03/26/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-46.65,03/26/2026 08:09:00 AM
+,03/27/2026,Expense,,Amazon,Company Visa,Office Supplies,-39.99,03/27/2026 05:00:00 PM
+,03/30/2026,Expense,,Amazon,Company Visa,Office Supplies,-43.62,04/06/2026 05:51:00 PM
+,03/30/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-35.00,04/06/2026 11:17:00 AM
+,03/30/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-50.18,03/30/2026 10:47:00 AM
+,03/30/2026,Expense,,Uber,Company Visa,Travel,-36.47,04/04/2026 02:28:00 PM
+,03/31/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-451.75,04/10/2026 10:49:00 AM
+,03/31/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-19.18,04/05/2026 06:29:00 PM
+,04/01/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-582.29,04/06/2026 09:57:00 AM
+,04/01/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-18.66,04/03/2026 03:59:00 PM
+,04/01/2026,Expense,,Staples,Company Visa,Office Supplies,-100.63,04/03/2026 09:13:00 AM
+,04/01/2026,Invoice,1007,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,04/01/2026,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,04/02/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-49.15,04/03/2026 01:02:00 PM
+,04/02/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-63.43,04/02/2026 01:03:00 PM
+,04/03/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-38.51,04/03/2026 04:04:00 PM
+,04/03/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-586.49,04/03/2026 12:36:00 PM
+,04/03/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-586.95,04/06/2026 01:32:00 PM
+,04/03/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-79.84,04/13/2026 09:22:00 AM
+,04/03/2026,Check,10932,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",04/04/2026 01:22:00 PM
+,04/03/2026,Expense,,Amazon,Company Visa,Office Equipment,-76.35,04/03/2026 05:23:00 PM
+,04/04/2026,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-219.73,04/04/2026 09:33:00 AM
+,04/06/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-64.24,04/06/2026 05:53:00 PM
+,04/07/2026,Expense,,Amazon,Company Visa,Office Supplies,-175.85,04/08/2026 05:01:00 PM
+,04/07/2026,Check,10160,USPS,Business Checking,Shipping & Postage,"-4,985.40",04/07/2026 11:38:00 AM
+,04/07/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-18.07,04/14/2026 10:33:00 AM
+,04/07/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-43.89,04/12/2026 03:59:00 PM
+,04/07/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-61.90,04/09/2026 11:09:00 AM
+,04/07/2026,Expense,,Uber,Company Visa,Travel,-47.24,04/08/2026 11:17:00 AM
+,04/08/2026,Expense,,Amazon,Company Visa,Office Supplies,-173.29,04/15/2026 08:04:00 AM
+,04/09/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-16.48,04/12/2026 10:14:00 AM
+,04/09/2026,Expense,,USPS,Company Visa,Shipping & Postage,-11.51,04/10/2026 09:11:00 AM
+,04/09/2026,Expense,,Staples,Company Visa,Office Equipment,-76.00,04/09/2026 02:33:00 PM
+,04/09/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-95.14,04/11/2026 12:47:00 PM
+,04/09/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-27.47,04/14/2026 05:40:00 PM
+,04/09/2026,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-720.36,04/10/2026 08:06:00 AM
+,04/09/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-59.44,04/14/2026 12:59:00 PM
+,04/10/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-33.37,04/17/2026 09:50:00 AM
+,04/10/2026,Expense,,Amazon,Company Visa,Office Supplies,-79.40,04/11/2026 05:55:00 PM
+,04/10/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-58.33,04/12/2026 11:01:00 AM
+,04/10/2026,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,04/10/2026 08:05:00 AM
+,04/10/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-16.54,04/20/2026 01:30:00 PM
+,04/10/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-733.37,04/10/2026 03:01:00 PM
+,04/12/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-18.29,04/13/2026 02:18:00 PM
+,04/13/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-129.89,04/16/2026 08:29:00 AM
+,04/13/2026,Expense,,Costco,Company Visa,Office Supplies,-65.03,04/13/2026 05:49:00 PM
+,04/13/2026,Expense,,Amazon,Company Visa,Office Supplies,-96.01,04/16/2026 06:51:00 PM
+,04/13/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-67.28,04/14/2026 08:04:00 AM
+,04/13/2026,Expense,,Amazon,Company Visa,Office Supplies,-98.01,04/23/2026 01:08:00 PM
+,04/13/2026,Expense,,USPS,Company Visa,Shipping & Postage,-16.62,04/16/2026 03:28:00 PM
+,04/13/2026,Expense,,Uber,Company Visa,Travel,-47.73,04/13/2026 06:23:00 PM
+,04/14/2026,Expense,,Uber,Company Visa,Travel,-36.47,04/14/2026 03:32:00 PM
+,04/15/2026,Expense,,Delta Air Lines,Company Visa,Travel,-358.06,04/15/2026 11:12:00 AM
+,04/15/2026,Expense,,USPS,Company Visa,Shipping & Postage,-28.50,04/22/2026 10:08:00 AM
+,04/15/2026,Expense,,Uber,Company Visa,Travel,-55.61,04/16/2026 12:32:00 PM
+,04/15/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-15.53,04/15/2026 08:28:00 AM
+,04/15/2026,Expense,,Uber,Company Visa,Travel,-28.93,04/22/2026 09:15:00 AM
+,04/15/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-611.82,04/16/2026 09:44:00 AM
+,04/16/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-49.20,04/23/2026 03:28:00 PM
+,04/16/2026,Check,10405,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,715.15",04/18/2026 01:09:00 PM
+,04/16/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-36.89,04/16/2026 05:20:00 PM
+,04/17/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-72.81,04/17/2026 11:35:00 AM
+,04/17/2026,Expense,,Staples,Company Visa,Office Supplies,-79.22,04/19/2026 12:49:00 PM
+,04/17/2026,Expense,,Costco,Company Visa,Office Supplies,-209.88,04/17/2026 06:36:00 PM
+,04/17/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-154.81,04/24/2026 10:24:00 AM
+,04/17/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-26.85,04/17/2026 05:41:00 PM
+,04/17/2026,Check,11028,Amazon Web Services,Business Checking,Software & Subscriptions,"-12,722.28",04/18/2026 12:44:00 PM
+,04/18/2026,Expense,,Comcast Business,Company Visa,Utilities,-189.99,04/18/2026 10:06:00 AM
+,04/20/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-854.88,04/30/2026 01:55:00 PM
+,04/20/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-56.80,04/27/2026 02:04:00 PM
+,04/20/2026,Expense,,Amazon,Company Visa,Office Supplies,-315.50,04/20/2026 06:09:00 PM
+,04/21/2026,Expense,,Staples,Company Visa,Office Supplies,-178.28,04/22/2026 09:33:00 AM
+,04/21/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-243.93,04/21/2026 02:02:00 PM
+,04/21/2026,Check,10168,Chevron,Business Checking,Auto & Fuel,"-4,962.89",04/21/2026 05:49:00 PM
+,04/21/2026,Expense,,Delta Air Lines,Company Visa,Travel,-308.29,05/01/2026 09:19:00 AM
+,04/21/2026,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,04/21/2026 11:39:00 AM
+,04/21/2026,Expense,,USPS,Company Visa,Shipping & Postage,-15.43,04/23/2026 06:32:00 PM
+,04/21/2026,Expense,,USPS,Company Visa,Shipping & Postage,-16.00,04/26/2026 12:15:00 PM
+,04/22/2026,Check,10180,J. Rivera Services,Business Checking,Legal & Professional Fees,"-7,365.31",04/29/2026 10:59:00 AM
+,04/22/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-56.52,04/22/2026 02:59:00 PM
+,04/22/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-16.02,04/25/2026 11:14:00 AM
+,04/22/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-103.16,04/27/2026 03:29:00 PM
+,04/23/2026,Expense,,Home Depot,Company Visa,Office Equipment,-130.82,04/24/2026 02:57:00 PM
+,04/23/2026,Expense,,PG&E,Company Visa,Utilities,-486.38,04/28/2026 10:27:00 AM
+,04/23/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-25.33,04/26/2026 10:59:00 AM
+,04/24/2026,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,04/25/2026 04:52:00 PM
+,04/24/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-684.18,04/24/2026 12:50:00 PM
+,04/24/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-48.19,04/24/2026 01:04:00 PM
+,04/24/2026,Expense,,Uber,Company Visa,Travel,-27.37,04/24/2026 11:11:00 AM
+,04/24/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-748.64,04/25/2026 12:59:00 PM
+,04/27/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-59.36,04/27/2026 04:00:00 PM
+,04/27/2026,Expense,,Staples,Company Visa,Office Supplies,-98.97,05/02/2026 04:55:00 PM
+,04/27/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-33.17,05/04/2026 09:53:00 AM
+,04/27/2026,Expense,,Staples,Company Visa,Office Supplies,-48.74,04/27/2026 05:06:00 PM
+,04/28/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-981.66,04/28/2026 02:04:00 PM
+,04/28/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-29.65,05/05/2026 05:20:00 PM
+,04/29/2026,Expense,,Uber,Company Visa,Travel,-48.60,04/30/2026 04:37:00 PM
+,04/29/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-52.15,05/04/2026 11:02:00 AM
+,04/29/2026,Expense,,Uber,Company Visa,Travel,-25.21,04/29/2026 10:30:00 AM
+,04/29/2026,Expense,,Staples,Company Visa,Office Supplies,-75.46,04/29/2026 03:03:00 PM
+,04/30/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-65.59,05/01/2026 08:56:00 AM
+,04/30/2026,Expense,,Nolo Legal Group,Company Visa,Legal & Professional Fees,-841.22,04/30/2026 04:27:00 PM
+,04/30/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-155.56,05/10/2026 10:03:00 AM
+,05/01/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-57.10,05/08/2026 01:43:00 PM
+,05/01/2026,Expense,,Staples,Company Visa,Office Supplies,-71.92,05/01/2026 03:05:00 PM
+,05/01/2026,Invoice,1008,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,05/01/2026,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,05/03/2026,Check,10673,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",05/03/2026 06:46:00 PM
+,05/04/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-43.62,05/11/2026 08:01:00 AM
+,05/04/2026,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-104.40,05/06/2026 08:40:00 AM
+,05/04/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-100.85,05/04/2026 02:39:00 PM
+,05/04/2026,Expense,,Staples,Company Visa,Office Supplies,-61.34,05/04/2026 02:00:00 PM
+,05/04/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-676.20,05/11/2026 03:03:00 PM
+,05/05/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-29.92,05/15/2026 06:51:00 PM
+,05/05/2026,Expense,,Uber,Company Visa,Travel,-30.21,05/08/2026 08:35:00 AM
+,05/05/2026,Expense,,Best Buy,Company Visa,Office Equipment,-476.98,05/05/2026 10:17:00 AM
+,05/05/2026,Expense,,Amazon,Company Visa,Office Supplies,-62.27,05/05/2026 09:47:00 AM
+,05/05/2026,Expense,,Uber,Company Visa,Travel,-13.90,05/06/2026 04:30:00 PM
+,05/07/2026,Expense,,Staples,Company Visa,Office Equipment,-88.05,05/10/2026 06:36:00 PM
+,05/07/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-50.19,05/07/2026 10:04:00 AM
+,05/07/2026,Expense,,Marriott,Company Visa,Travel,-179.12,05/09/2026 11:55:00 AM
+,05/08/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-36.30,05/13/2026 11:58:00 AM
+,05/08/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-84.74,05/13/2026 12:55:00 PM
+,05/08/2026,Expense,,Amazon,Company Visa,Office Supplies,-86.61,05/08/2026 06:26:00 PM
+,05/08/2026,Expense,,Delta Air Lines,Company Visa,Travel,-432.20,05/11/2026 01:30:00 PM
+,05/08/2026,Expense,,Uber,Company Visa,Travel,-49.38,05/08/2026 09:43:00 AM
+,05/09/2026,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-630.35,05/09/2026 03:27:00 PM
+,05/10/2026,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,05/11/2026 05:07:00 PM
+,05/11/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-51.30,05/16/2026 04:20:00 PM
+,05/11/2026,Expense,,Uber,Company Visa,Travel,-24.05,05/14/2026 09:45:00 AM
+,05/11/2026,Expense,,Uber,Company Visa,Travel,-17.89,05/16/2026 05:12:00 PM
+,05/11/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-55.00,05/11/2026 09:14:00 AM
+,05/11/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-16.93,05/11/2026 06:44:00 PM
+,05/11/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-25.07,05/11/2026 11:14:00 AM
+,05/12/2026,Expense,,Uber,Company Visa,Travel,-15.14,05/12/2026 06:49:00 PM
+,05/13/2026,Expense,,Amazon,Company Visa,Office Supplies,-118.15,05/14/2026 06:24:00 PM
+,05/13/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-119.64,05/23/2026 09:54:00 AM
+,05/13/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-87.45,05/15/2026 03:26:00 PM
+,05/13/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-25.56,05/13/2026 11:18:00 AM
+,05/13/2026,Expense,,Uber,Company Visa,Travel,-60.46,05/20/2026 01:03:00 PM
+,05/13/2026,Expense,,Amazon,Company Visa,Office Equipment,-40.00,05/14/2026 09:22:00 AM
+,05/13/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-527.73,05/14/2026 02:28:00 PM
+,05/14/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-63.49,05/15/2026 06:51:00 PM
+,05/14/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-31.21,05/14/2026 06:56:00 PM
+,05/14/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-34.73,05/14/2026 01:40:00 PM
+,05/14/2026,Expense,,Uber,Company Visa,Travel,-31.69,05/21/2026 06:47:00 PM
+,05/14/2026,Expense,,Uber,Company Visa,Travel,-28.90,05/14/2026 10:44:00 AM
+,05/14/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-54.90,05/14/2026 10:11:00 AM
+,05/15/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-27.65,05/17/2026 08:02:00 AM
+,05/15/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-43.67,05/16/2026 10:55:00 AM
+,05/15/2026,Expense,,USPS,Company Visa,Shipping & Postage,-34.22,05/20/2026 10:29:00 AM
+,05/15/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-45.31,05/22/2026 12:30:00 PM
+,05/15/2026,Expense,,Amazon,Company Visa,Office Supplies,-56.67,05/15/2026 11:20:00 AM
+,05/15/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-37.55,05/25/2026 09:08:00 AM
+,05/15/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-76.06,05/15/2026 05:24:00 PM
+,05/15/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-9.66,05/22/2026 11:44:00 AM
+,05/15/2026,Expense,,Uber,Company Visa,Travel,-30.93,05/15/2026 09:49:00 AM
+,05/16/2026,Check,10988,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,139.84",05/19/2026 03:51:00 PM
+,05/18/2026,Expense,,Uber,Company Visa,Travel,-19.27,05/21/2026 01:36:00 PM
+,05/18/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-85.73,05/23/2026 03:35:00 PM
+,05/18/2026,Expense,,Comcast Business,Company Visa,Utilities,-189.99,05/19/2026 03:39:00 PM
+,05/18/2026,Expense,,Amazon,Company Visa,Office Supplies,-808.20,05/19/2026 02:34:00 PM
+,05/19/2026,Expense,,Uber,Company Visa,Travel,-38.05,05/19/2026 10:16:00 AM
+,05/19/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-20.27,05/26/2026 03:52:00 PM
+,05/19/2026,Expense,,USPS,Company Visa,Shipping & Postage,-12.06,05/22/2026 09:55:00 AM
+,05/20/2026,Expense,,Staples,Company Visa,Office Supplies,-83.29,05/20/2026 06:56:00 PM
+,05/20/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-17.39,05/27/2026 12:23:00 PM
+,05/20/2026,Expense,,Amazon,Company Visa,Office Supplies,-66.81,05/21/2026 12:12:00 PM
+,05/21/2026,Expense,,Staples,Company Visa,Office Supplies,-122.49,05/21/2026 01:56:00 PM
+,05/21/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-513.62,05/26/2026 01:25:00 PM
+,05/21/2026,Expense,,Staples,Company Visa,Office Supplies,-189.57,05/21/2026 03:32:00 PM
+,05/21/2026,Expense,,Marriott,Company Visa,Travel,-483.02,05/28/2026 11:25:00 AM
+,05/21/2026,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,05/21/2026 03:06:00 PM
+,05/21/2026,Expense,,Amazon,Company Visa,Office Supplies,-103.08,05/26/2026 04:36:00 PM
+,05/22/2026,Expense,,USPS,Company Visa,Shipping & Postage,-18.55,05/22/2026 08:07:00 AM
+,05/22/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-64.11,05/23/2026 05:09:00 PM
+,05/22/2026,Expense,,USPS,Company Visa,Shipping & Postage,-19.06,05/22/2026 05:17:00 PM
+,05/23/2026,Expense,,PG&E,Company Visa,Utilities,-363.49,05/23/2026 11:13:00 AM
+,05/24/2026,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,05/25/2026 01:37:00 PM
+,05/25/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-40.25,05/27/2026 09:28:00 AM
+,05/25/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-758.09,05/25/2026 11:07:00 AM
+,05/25/2026,Expense,,Amazon,Company Visa,Office Equipment,-151.04,05/26/2026 01:41:00 PM
+,05/25/2026,Check,10679,Facebook Ads,Business Checking,Advertising & Marketing,"-1,007.36",06/04/2026 04:38:00 PM
+,05/25/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-326.68,05/26/2026 11:39:00 AM
+,05/25/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-221.08,06/04/2026 08:50:00 AM
+,05/26/2026,Expense,,Uber,Company Visa,Travel,-29.38,05/27/2026 12:08:00 PM
+,05/26/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-67.28,06/05/2026 01:24:00 PM
+,05/26/2026,Expense,,Delta Air Lines,Company Visa,Travel,-354.45,06/05/2026 10:17:00 AM
+,05/27/2026,Expense,,Uber,Company Visa,Travel,-32.02,06/06/2026 06:57:00 PM
+,05/27/2026,Expense,,Amazon,Company Visa,Office Equipment,-227.19,05/27/2026 12:31:00 PM
+,05/28/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-43.52,06/02/2026 04:48:00 PM
+,05/28/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-37.87,05/29/2026 02:37:00 PM
+,05/29/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-40.32,05/31/2026 11:55:00 AM
+,05/29/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-56.97,05/30/2026 05:25:00 PM
+,05/29/2026,Expense,,Costco,Company Visa,Office Supplies,-252.76,05/31/2026 01:20:00 PM
+,05/29/2026,Expense,,USPS,Company Visa,Shipping & Postage,-17.74,06/01/2026 01:40:00 PM
+,06/01/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-62.06,06/01/2026 03:54:00 PM
+,06/01/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-50.79,06/04/2026 12:55:00 PM
+,06/01/2026,Invoice,1009,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,06/01/2026,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,06/02/2026,Expense,,Staples,Company Visa,Office Supplies,-153.14,06/12/2026 01:32:00 PM
+,06/02/2026,Check,10281,Google Ads,Business Checking,Advertising & Marketing,"-1,110.91",06/03/2026 05:11:00 PM
+,06/02/2026,Expense,,Amazon,Company Visa,Office Equipment,-135.12,06/09/2026 05:41:00 PM
+,06/02/2026,Expense,,Uber,Company Visa,Travel,-44.23,06/02/2026 06:15:00 PM
+,06/03/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-61.86,06/08/2026 10:14:00 AM
+,06/03/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-735.25,06/13/2026 03:14:00 PM
+,06/03/2026,Check,10636,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",06/06/2026 12:49:00 PM
+,06/03/2026,Expense,,Uber,Company Visa,Travel,-17.46,06/10/2026 09:58:00 AM
+,06/03/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-16.45,06/05/2026 02:42:00 PM
+,06/04/2026,Expense,,Uber,Company Visa,Shipping & Postage,-32.25,06/05/2026 03:20:00 PM
+,06/04/2026,Check,10182,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",06/05/2026 12:47:00 PM
+,06/04/2026,Expense,,Uber,Company Visa,Travel,-13.20,06/04/2026 05:02:00 PM
+,06/04/2026,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-187.67,06/04/2026 06:15:00 PM
+,06/05/2026,Expense,,Amazon,Company Visa,Office Supplies,-48.95,06/05/2026 12:48:00 PM
+,06/05/2026,Expense,,Uber,Company Visa,Travel,-17.10,06/06/2026 04:27:00 PM
+,06/05/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-108.80,06/05/2026 04:30:00 PM
+,06/08/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-547.41,06/09/2026 02:26:00 PM
+,06/08/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-52.18,06/09/2026 09:12:00 AM
+,06/09/2026,Expense,,Delta Air Lines,Company Visa,Travel,-332.91,06/10/2026 05:04:00 PM
+,06/09/2026,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-755.88,06/19/2026 01:56:00 PM
+,06/09/2026,Expense,,Staples,Company Visa,Office Equipment,-106.68,06/09/2026 10:58:00 AM
+,06/10/2026,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,06/11/2026 03:12:00 PM
+,06/10/2026,Expense,,USPS,Company Visa,Shipping & Postage,-10.23,06/12/2026 08:48:00 AM
+,06/10/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-839.25,06/17/2026 04:51:00 PM
+,06/11/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-17.92,06/16/2026 02:51:00 PM
+,06/11/2026,Expense,,Delta Air Lines,Company Visa,Travel,-347.66,06/14/2026 08:45:00 AM
+,06/12/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-10.76,06/13/2026 08:08:00 AM
+,06/12/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-54.63,06/17/2026 06:14:00 PM
+,06/12/2026,Expense,,USPS,Company Visa,Shipping & Postage,-12.14,06/19/2026 11:03:00 AM
+,06/12/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-75.44,06/12/2026 09:26:00 AM
+,06/12/2026,Expense,,Amazon,Company Visa,Office Equipment,-126.82,06/14/2026 08:51:00 AM
+,06/12/2026,Expense,,Costco,Company Visa,Office Supplies,-210.25,06/13/2026 05:05:00 PM
+,06/15/2026,Expense,,Delta Air Lines,Company Visa,Travel,-396.78,06/16/2026 12:47:00 PM
+,06/15/2026,Expense,,Uber,Company Visa,Travel,-20.58,06/15/2026 04:34:00 PM
+,06/15/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-179.61,06/17/2026 02:47:00 PM
+,06/16/2026,Expense,,USPS,Company Visa,Shipping & Postage,-19.85,06/26/2026 12:05:00 PM
+,06/16/2026,Check,11027,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,108.76",06/21/2026 05:46:00 PM
+,06/17/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-113.18,06/17/2026 05:58:00 PM
+,06/17/2026,Expense,,USPS,Company Visa,Shipping & Postage,-11.13,06/17/2026 01:24:00 PM
+,06/17/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-32.24,06/20/2026 10:10:00 AM
+,06/17/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-239.40,06/19/2026 04:18:00 PM
+,06/18/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-54.25,06/18/2026 12:03:00 PM
+,06/18/2026,Expense,,Best Buy,Company Visa,Office Equipment,-458.60,06/23/2026 06:46:00 PM
+,06/18/2026,Expense,,Comcast Business,Company Visa,Utilities,-189.99,06/19/2026 05:33:00 PM
+,06/18/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-58.79,06/18/2026 11:52:00 AM
+,06/18/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-565.10,06/20/2026 06:05:00 PM
+,06/19/2026,Expense,,Staples,Company Visa,Office Equipment,-112.14,06/19/2026 05:52:00 PM
+,06/19/2026,Expense,,Amazon,Company Visa,Office Supplies,-136.71,06/29/2026 06:00:00 PM
+,06/19/2026,Check,10567,Facebook Ads,Business Checking,Advertising & Marketing,"-1,400.78",06/20/2026 01:34:00 PM
+,06/21/2026,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,06/21/2026 02:47:00 PM
+,06/22/2026,Expense,,Staples,Company Visa,Office Equipment,-65.60,06/22/2026 12:35:00 PM
+,06/22/2026,Expense,,Uber,Company Visa,Travel,-22.18,06/22/2026 10:55:00 AM
+,06/22/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-49.58,07/02/2026 02:26:00 PM
+,06/22/2026,Expense,,Costco,Company Visa,Office Supplies,-205.08,07/02/2026 12:20:00 PM
+,06/22/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-71.45,06/23/2026 01:27:00 PM
+,06/23/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-724.99,06/24/2026 11:37:00 AM
+,06/23/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-161.82,06/23/2026 09:20:00 AM
+,06/23/2026,Expense,,PG&E,Company Visa,Utilities,-489.75,07/03/2026 12:09:00 PM
+,06/24/2026,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,06/27/2026 02:46:00 PM
+,06/24/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-48.01,07/01/2026 06:41:00 PM
+,06/24/2026,Expense,,Staples,Company Visa,Office Supplies,-138.94,06/29/2026 02:54:00 PM
+,06/24/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-26.53,06/24/2026 05:04:00 PM
+,06/26/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-24.58,06/26/2026 11:47:00 AM
+,06/26/2026,Expense,,Uber,Company Visa,Travel,-18.08,06/28/2026 04:20:00 PM
+,06/26/2026,Expense,,Delta Air Lines,Company Visa,Travel,-424.75,06/28/2026 12:52:00 PM
+,06/26/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-550.60,07/03/2026 09:22:00 AM
+,06/26/2026,Expense,,Amazon,Company Visa,Office Supplies,-85.95,06/27/2026 03:43:00 PM
+,06/29/2026,Expense,,Amazon,Company Visa,Office Supplies,-376.35,07/09/2026 12:48:00 PM
+,06/30/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-35.25,06/30/2026 01:40:00 PM
+,06/30/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-13.67,07/02/2026 12:57:00 PM
+,06/30/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-61.11,07/03/2026 04:37:00 PM
+,06/30/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-26.49,06/30/2026 06:09:00 PM
+,07/01/2026,Expense,,Uber,Company Visa,Travel,-19.95,07/02/2026 05:16:00 PM
+,07/01/2026,Invoice,1010,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,07/01/2026,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,07/02/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-35.57,07/03/2026 04:26:00 PM
+,07/02/2026,Expense,,Amazon,Company Visa,Office Equipment,-232.17,07/05/2026 10:45:00 AM
+,07/02/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-214.43,07/02/2026 05:16:00 PM
+,07/03/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-32.67,07/03/2026 08:05:00 AM
+,07/03/2026,Check,10577,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",07/05/2026 12:27:00 PM
+,07/03/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-56.18,07/10/2026 04:31:00 PM
+,07/04/2026,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-188.74,07/07/2026 11:00:00 AM
+,07/05/2026,Expense,,Uber,Company Visa,Travel,-40.96,07/05/2026 01:24:00 PM
+,07/06/2026,Expense,,Amazon,Company Visa,Office Equipment,-73.96,07/11/2026 04:44:00 PM
+,07/06/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-53.39,07/08/2026 02:16:00 PM
+,07/06/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-55.90,07/06/2026 06:11:00 PM
+,07/06/2026,Expense,,Staples,Company Visa,Office Supplies,-78.96,07/07/2026 09:57:00 AM
+,07/06/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-28.26,07/07/2026 04:06:00 PM
+,07/07/2026,Expense,,Costco,Company Visa,Office Supplies,-240.58,07/07/2026 06:54:00 PM
+,07/07/2026,Expense,,Staples,Company Visa,Office Supplies,-139.41,07/10/2026 08:12:00 AM
+,07/07/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-514.96,07/07/2026 10:12:00 AM
+,07/07/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-65.10,07/07/2026 06:29:00 PM
+,07/07/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-50.27,07/07/2026 12:07:00 PM
+,07/08/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-213.05,07/18/2026 11:37:00 AM
+,07/08/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-937.65,07/09/2026 06:10:00 PM
+,07/08/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-513.25,07/10/2026 08:32:00 AM
+,07/08/2026,Expense,,Marriott,Company Visa,Travel,-281.14,07/08/2026 02:58:00 PM
+,07/09/2026,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-950.39,07/09/2026 01:26:00 PM
+,07/09/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-13.31,07/19/2026 06:11:00 PM
+,07/09/2026,Expense,,Amazon,Company Visa,Office Supplies,-138.93,07/16/2026 01:08:00 PM
+,07/09/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-113.78,07/19/2026 05:47:00 PM
+,07/09/2026,Expense,,Amazon,Company Visa,Office Supplies,-158.62,07/09/2026 03:45:00 PM
+,07/10/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-33.71,07/10/2026 06:13:00 PM
+,07/10/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-50.50,07/11/2026 02:49:00 PM
+,07/10/2026,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,07/15/2026 11:48:00 AM
+,07/12/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-32.07,07/22/2026 02:03:00 PM
+,07/13/2026,Expense,,Amazon,Company Visa,Office Supplies,-61.00,07/18/2026 05:41:00 PM
+,07/13/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-52.05,07/23/2026 02:14:00 PM
+,07/13/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-30.39,07/13/2026 09:50:00 AM
+,07/13/2026,Expense,,Delta Air Lines,Company Visa,Travel,-654.24,07/13/2026 04:50:00 PM
+,07/14/2026,Expense,,Amazon,Company Visa,Office Supplies,-146.16,07/15/2026 09:14:00 AM
+,07/14/2026,Expense,,Amazon,Company Visa,Office Supplies,-254.30,07/16/2026 03:15:00 PM
+,07/15/2026,Expense,,Uber,Company Visa,Travel,-51.21,07/18/2026 12:55:00 PM
+,07/15/2026,Expense,,Uber,Company Visa,Travel,-16.89,07/16/2026 05:46:00 PM
+,07/15/2026,Expense,,Uber,Company Visa,Travel,-53.24,07/20/2026 04:17:00 PM
+,07/15/2026,Expense,,USPS,Company Visa,Shipping & Postage,-16.55,07/22/2026 11:38:00 AM
+,07/16/2026,Expense,,Smith & Lee CPAs,Company Visa,Legal & Professional Fees,-801.32,07/21/2026 02:14:00 PM
+,07/16/2026,Expense,,Uber,Company Visa,Travel,-20.39,07/16/2026 10:05:00 AM
+,07/16/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-38.54,07/17/2026 10:08:00 AM
+,07/17/2026,Expense,,Staples,Company Visa,Office Supplies,-80.96,07/24/2026 10:14:00 AM
+,07/18/2026,Expense,,Delta Air Lines,Company Visa,Travel,-362.21,07/18/2026 09:38:00 AM
+,07/18/2026,Expense,,Comcast Business,Company Visa,Utilities,-189.99,07/18/2026 04:34:00 PM
+,07/20/2026,Expense,,Amazon,Company Visa,Office Supplies,-286.63,07/20/2026 05:26:00 PM
+,07/20/2026,Expense,,Uber,Company Visa,Travel,-52.99,07/20/2026 11:06:00 AM
+,07/21/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-70.88,07/22/2026 08:15:00 AM
+,07/21/2026,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,07/21/2026 11:55:00 AM
+,07/21/2026,Expense,,Staples,Company Visa,Office Supplies,-87.29,07/22/2026 04:52:00 PM
+,07/21/2026,Expense,,Best Buy,Company Visa,Office Equipment,-185.61,07/31/2026 04:34:00 PM
+,07/22/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-23.15,07/29/2026 12:41:00 PM
+,07/22/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-38.87,07/23/2026 03:41:00 PM
+,07/22/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-37.52,07/29/2026 05:21:00 PM
+,07/23/2026,Expense,,PG&E,Company Visa,Utilities,-340.20,07/30/2026 09:18:00 AM
+,07/24/2026,Check,10536,Uber,Business Checking,Travel,"-10,000.00",07/29/2026 10:02:00 AM
+,07/24/2026,Expense,,USPS,Company Visa,Shipping & Postage,-18.29,08/03/2026 05:25:00 PM
+,07/24/2026,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,08/03/2026 05:08:00 PM
+,07/24/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-61.15,07/24/2026 04:32:00 PM
+,07/27/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-29.82,07/27/2026 03:36:00 PM
+,07/27/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-338.97,07/28/2026 11:21:00 AM
+,07/27/2026,Expense,,Amazon,Company Visa,Office Supplies,-75.63,08/03/2026 09:07:00 AM
+,07/28/2026,Expense,,Amazon,Company Visa,Office Supplies,-43.65,08/07/2026 08:22:00 AM
+,07/28/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-22.31,08/07/2026 06:21:00 PM
+,07/28/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-42.92,07/28/2026 11:42:00 AM
+,07/28/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-29.41,08/04/2026 04:59:00 PM
+,07/28/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-108.79,07/28/2026 04:29:00 PM
+,07/28/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-30.60,07/28/2026 06:22:00 PM
+,07/29/2026,Expense,,Uber,Company Visa,Travel,-40.58,08/08/2026 08:39:00 AM
+,07/29/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-17.17,07/29/2026 11:30:00 AM
+,07/29/2026,Expense,,Staples,Company Visa,Office Supplies,-57.14,07/29/2026 11:30:00 AM
+,07/29/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-58.70,08/01/2026 04:05:00 PM
+,07/29/2026,Expense,,Costco,Company Visa,Office Supplies,-210.51,07/30/2026 10:57:00 AM
+,07/29/2026,Expense,,USPS,Company Visa,Shipping & Postage,-22.77,07/29/2026 06:43:00 PM
+,07/30/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-19.49,08/01/2026 06:39:00 PM
+,07/30/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-83.56,07/30/2026 10:03:00 AM
+,07/30/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-751.17,07/31/2026 04:19:00 PM
+,07/31/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-21.99,07/31/2026 08:58:00 AM
+,08/01/2026,Invoice,1011,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,08/01/2026,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,08/02/2026,Check,10240,Nolo Legal Group,Business Checking,Legal & Professional Fees,"-1,261.39",08/03/2026 11:19:00 AM
+,08/03/2026,Check,10161,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",08/03/2026 09:33:00 AM
+,08/03/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-131.91,08/03/2026 02:03:00 PM
+,08/03/2026,Expense,,Amazon,Company Visa,Office Supplies,-62.63,08/03/2026 01:23:00 PM
+,08/03/2026,Expense,,Amazon,Company Visa,Office Supplies,-278.60,08/10/2026 12:19:00 PM
+,08/04/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-44.20,08/04/2026 04:13:00 PM
+,08/04/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-43.42,08/04/2026 09:21:00 AM
+,08/04/2026,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-209.70,08/05/2026 09:49:00 AM
+,08/05/2026,Expense,,Amazon,Company Visa,Office Equipment,-271.25,08/10/2026 09:53:00 AM
+,08/05/2026,Expense,,Amazon,Company Visa,Office Supplies,-143.36,08/08/2026 05:22:00 PM
+,08/06/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-47.08,08/08/2026 11:55:00 AM
+,08/06/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-21.78,08/06/2026 08:17:00 AM
+,08/06/2026,Expense,,USPS,Company Visa,Shipping & Postage,-7.98,08/06/2026 06:28:00 PM
+,08/06/2026,Expense,,Uber,Company Visa,Travel,-28.83,08/06/2026 11:07:00 AM
+,08/07/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-38.69,08/10/2026 02:30:00 PM
+,08/07/2026,Expense,,Marriott,Company Visa,Travel,-171.47,08/12/2026 11:20:00 AM
+,08/07/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-47.71,08/07/2026 03:06:00 PM
+,08/07/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-589.61,08/09/2026 09:50:00 AM
+,08/07/2026,Expense,,Amazon,Company Visa,Office Supplies,-75.17,08/09/2026 10:18:00 AM
+,08/07/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-20.48,08/17/2026 04:45:00 PM
+,08/09/2026,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-829.33,08/09/2026 11:41:00 AM
+,08/10/2026,Expense,,Uber,Company Visa,Travel,-22.95,08/17/2026 01:45:00 PM
+,08/10/2026,Check,10136,Chipotle,Business Checking,Meals & Entertainment,"-2,000.00",08/10/2026 11:45:00 AM
+,08/10/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-70.60,08/12/2026 10:45:00 AM
+,08/10/2026,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,08/12/2026 02:10:00 PM
+,08/10/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-38.69,08/11/2026 11:33:00 AM
+,08/10/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-33.50,08/20/2026 02:44:00 PM
+,08/11/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-559.67,08/14/2026 12:43:00 PM
+,08/11/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-116.26,08/21/2026 05:53:00 PM
+,08/11/2026,Expense,,Uber,Company Visa,Travel,-24.07,08/11/2026 08:31:00 AM
+,08/11/2026,Expense,,Uber,Company Visa,Travel,-33.23,08/12/2026 09:05:00 AM
+,08/12/2026,Expense,,Uber,Company Visa,Travel,-31.37,08/12/2026 01:15:00 PM
+,08/12/2026,Expense,,Amazon,Company Visa,Office Supplies,-166.79,08/17/2026 11:08:00 AM
+,08/12/2026,Expense,,USPS,Company Visa,Shipping & Postage,-10.72,08/15/2026 08:14:00 AM
+,08/12/2026,Expense,,Amazon,Company Visa,Office Equipment,-98.67,08/12/2026 10:25:00 AM
+,08/12/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-35.02,08/13/2026 08:46:00 AM
+,08/12/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-563.79,08/19/2026 08:12:00 AM
+,08/12/2026,Check,10917,Costco,Business Checking,Office Supplies,"-2,160.32",08/12/2026 06:59:00 PM
+,08/13/2026,Expense,,Amazon,Company Visa,Office Supplies,-397.77,08/20/2026 12:38:00 PM
+,08/14/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-30.15,08/14/2026 02:05:00 PM
+,08/14/2026,Expense,,Amazon,Company Visa,Office Supplies,-101.06,08/21/2026 02:20:00 PM
+,08/15/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-45.31,08/25/2026 10:44:00 AM
+,08/16/2026,Check,10191,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,977.34",08/16/2026 04:32:00 PM
+,08/17/2026,Expense,,Staples,Company Visa,Office Supplies,-106.95,08/17/2026 09:39:00 AM
+,08/17/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-76.06,08/17/2026 03:01:00 PM
+,08/17/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-68.00,08/20/2026 04:15:00 PM
+,08/17/2026,Expense,,Amazon,Company Visa,Office Supplies,-248.64,08/20/2026 04:32:00 PM
+,08/17/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-62.90,08/22/2026 11:44:00 AM
+,08/17/2026,Expense,,Uber,Company Visa,Travel,-44.50,08/17/2026 10:40:00 AM
+,08/17/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-75.49,08/22/2026 02:10:00 PM
+,08/18/2026,Expense,,Comcast Business,Company Visa,Utilities,-189.99,08/21/2026 02:33:00 PM
+,08/18/2026,Expense,,Delta Air Lines,Company Visa,Travel,-549.01,08/23/2026 12:41:00 PM
+,08/18/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-27.08,08/23/2026 08:54:00 AM
+,08/18/2026,Expense,,Amazon,Company Visa,Office Supplies,-53.63,08/19/2026 01:03:00 PM
+,08/20/2026,Expense,,Amazon,Company Visa,Office Equipment,-69.83,08/30/2026 06:17:00 PM
+,08/20/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-11.77,08/21/2026 04:05:00 PM
+,08/20/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-43.66,08/20/2026 09:11:00 AM
+,08/20/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-36.61,08/23/2026 11:39:00 AM
+,08/20/2026,Expense,,Costco,Company Visa,Office Supplies,-171.88,08/21/2026 06:51:00 PM
+,08/20/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-32.41,08/21/2026 12:09:00 PM
+,08/21/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-196.50,08/21/2026 01:27:00 PM
+,08/21/2026,Expense,,Uber,Company Visa,Travel,-47.88,08/28/2026 06:28:00 PM
+,08/21/2026,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,08/31/2026 02:26:00 PM
+,08/22/2026,Expense,,Marriott,Company Visa,Travel,-379.98,08/23/2026 02:40:00 PM
+,08/23/2026,Expense,,PG&E,Company Visa,Utilities,-376.41,08/24/2026 04:50:00 PM
+,08/24/2026,Expense,,Staples,Company Visa,Office Supplies,-59.76,08/25/2026 09:51:00 AM
+,08/24/2026,Expense,,Staples,Company Visa,Office Supplies,-36.79,08/27/2026 03:07:00 PM
+,08/24/2026,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,08/25/2026 01:30:00 PM
+,08/24/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-40.33,08/25/2026 12:26:00 PM
+,08/25/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-64.10,08/26/2026 02:38:00 PM
+,08/26/2026,Expense,,Costco,Company Visa,Office Supplies,-345.53,08/26/2026 02:25:00 PM
+,08/26/2026,Expense,,Amazon,Company Visa,Office Equipment,-59.96,08/29/2026 04:27:00 PM
+,08/27/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-863.49,08/28/2026 02:28:00 PM
+,08/28/2026,Expense,,Amazon,Company Visa,Office Supplies,-69.06,09/07/2026 09:19:00 AM
+,08/28/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-25.41,09/07/2026 06:29:00 PM
+,08/31/2026,Expense,,Uber,Company Visa,Travel,-27.51,09/10/2026 08:10:00 AM
+,08/31/2026,Expense,,Uber,Company Visa,Travel,-20.42,09/07/2026 11:29:00 AM
+,09/01/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-82.29,09/08/2026 03:01:00 PM
+,09/01/2026,Expense,,USPS,Company Visa,Shipping & Postage,-8.70,09/08/2026 02:17:00 PM
+,09/01/2026,Expense,,Amazon,Company Visa,Office Supplies,-383.69,09/01/2026 09:13:00 AM
+,09/01/2026,Expense,,Staples,Company Visa,Office Supplies,-41.94,09/02/2026 06:02:00 PM
+,09/01/2026,Invoice,1012,Acme Corp,Accounts Receivable (A/R),Services,"4,800.00",
+,09/01/2026,Deposit,,,Business Checking,Undeposited Funds,"4,800.00",
+,09/02/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-17.83,09/09/2026 12:10:00 PM
+,09/02/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-13.58,09/05/2026 10:39:00 AM
+,09/02/2026,Expense,,Marriott,Company Visa,Travel,-192.28,09/04/2026 09:25:00 AM
+,09/02/2026,Expense,,Uber,Company Visa,Travel,-23.08,09/12/2026 06:48:00 PM
+,09/02/2026,Expense,,USPS,Company Visa,Shipping & Postage,-25.61,09/02/2026 11:04:00 AM
+,09/02/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-651.50,09/04/2026 01:13:00 PM
+,09/02/2026,Expense,,Staples,Company Visa,Office Supplies,-145.02,09/07/2026 04:53:00 PM
+,09/03/2026,Check,10172,Bayview Properties,Business Checking,Rent or Lease,"-6,500.00",09/10/2026 08:51:00 AM
+,09/03/2026,Expense,,Staples,Company Visa,Office Equipment,-105.64,09/03/2026 09:17:00 AM
+,09/04/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-42.58,09/14/2026 09:45:00 AM
+,09/04/2026,Expense,,Vistaprint,Company Visa,Advertising & Marketing,-94.70,09/04/2026 03:36:00 PM
+,09/04/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-12.82,09/05/2026 08:43:00 AM
+,09/04/2026,Expense,,Staples,Company Visa,Office Supplies,-35.30,09/05/2026 11:27:00 AM
+,09/05/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-31.97,09/07/2026 08:52:00 AM
+,09/07/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-95.41,09/12/2026 08:27:00 AM
+,09/07/2026,Expense,,Staples,Company Visa,Office Supplies,-85.49,09/10/2026 06:00:00 PM
+,09/07/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-825.39,09/14/2026 09:52:00 AM
+,09/07/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-60.13,09/07/2026 10:36:00 AM
+,09/08/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-22.60,09/15/2026 01:40:00 PM
+,09/08/2026,Expense,,Amazon,Company Visa,Rent or Lease,-62.94,09/08/2026 01:13:00 PM
+,09/08/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-66.96,09/08/2026 04:15:00 PM
+,09/09/2026,Expense,,Amazon Web Services,Company Visa,Software & Subscriptions,-557.47,09/12/2026 06:05:00 PM
+,09/09/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-38.17,09/09/2026 09:53:00 AM
+,09/10/2026,Expense,,USPS,Company Visa,Shipping & Postage,-11.58,09/12/2026 09:41:00 AM
+,09/10/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-24.86,09/17/2026 03:31:00 PM
+,09/10/2026,Expense,,USPS,Company Visa,Shipping & Postage,-13.65,09/17/2026 06:05:00 PM
+,09/10/2026,Expense,,Google Workspace,Company Visa,Software & Subscriptions,-144.00,09/11/2026 05:01:00 PM
+,09/10/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-16.21,09/10/2026 05:23:00 PM
+,09/11/2026,Expense,,Uber,Company Visa,Travel,-67.33,09/11/2026 08:34:00 AM
+,09/11/2026,Expense,,Amazon,Company Visa,Office Supplies,-49.47,09/13/2026 03:15:00 PM
+,09/11/2026,Expense,,Uber,Company Visa,Travel,-37.15,09/21/2026 02:58:00 PM
+,09/14/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-70.96,09/17/2026 02:31:00 PM
+,09/14/2026,Expense,,Best Buy,Company Visa,Office Equipment,-443.59,09/16/2026 03:30:00 PM
+,09/15/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-23.48,09/15/2026 12:19:00 PM
+,09/16/2026,Expense,,Uber,Company Visa,Travel,-33.69,09/16/2026 06:23:00 PM
+,09/16/2026,Expense,,Amazon,Company Visa,Office Supplies,-38.56,09/23/2026 09:14:00 AM
+,09/16/2026,Check,10863,Smith & Lee CPAs,Business Checking,Legal & Professional Fees,"-1,105.31",09/26/2026 12:34:00 PM
+,09/16/2026,Expense,,Staples,Company Visa,Office Supplies,-128.59,09/23/2026 02:31:00 PM
+,09/17/2026,Expense,,Uber,Company Visa,Travel,-27.44,09/17/2026 09:10:00 AM
+,09/17/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-363.20,09/17/2026 06:11:00 PM
+,09/17/2026,Expense,,Amazon,Company Visa,Office Equipment,-126.77,09/19/2026 09:55:00 AM
+,09/18/2026,Expense,,USPS,Company Visa,Shipping & Postage,-6.70,09/18/2026 08:08:00 AM
+,09/18/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-623.07,09/19/2026 02:12:00 PM
+,09/18/2026,Expense,,Chevron,Company Visa,Auto & Fuel,-72.85,09/20/2026 09:16:00 AM
+,09/18/2026,Expense,,Comcast Business,Company Visa,Utilities,-189.99,09/18/2026 02:47:00 PM
+,09/18/2026,Expense,,Uber,Company Visa,Travel,-24.56,09/25/2026 10:55:00 AM
+,09/21/2026,Expense,,Intuit,Company Visa,Software & Subscriptions,-90.00,09/22/2026 02:35:00 PM
+,09/21/2026,Expense,,Uber,Company Visa,Travel,-29.50,09/22/2026 06:44:00 PM
+,09/21/2026,Expense,,Staples,Company Visa,Office Supplies,-111.24,09/22/2026 11:57:00 AM
+,09/21/2026,Expense,,Staples,Company Visa,Office Supplies,-59.15,09/21/2026 02:22:00 PM
+,09/21/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-30.10,09/21/2026 09:26:00 AM
+,09/21/2026,Expense,,USPS,Company Visa,Shipping & Postage,-47.08,09/23/2026 02:00:00 PM
+,09/22/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-41.77,09/23/2026 12:33:00 PM
+,09/22/2026,Expense,,Amazon,Company Visa,Office Supplies,-176.97,09/23/2026 09:00:00 AM
+,09/23/2026,Expense,,PG&E,Company Visa,Utilities,-449.22,09/24/2026 10:40:00 AM
+,09/24/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-16.53,09/26/2026 06:43:00 PM
+,09/24/2026,Expense,,Uber,Company Visa,Travel,-28.31,09/24/2026 01:43:00 PM
+,09/24/2026,Expense,,Amazon,Company Visa,Office Supplies,-253.73,10/04/2026 04:39:00 PM
+,09/24/2026,Expense,,USPS,Company Visa,Shipping & Postage,-20.63,09/24/2026 02:03:00 PM
+,09/24/2026,Expense,,Hartford Insurance,Company Visa,Insurance,-375.00,09/26/2026 03:25:00 PM
+,09/24/2026,Expense,,Amazon,Company Visa,Office Supplies,-33.70,10/04/2026 05:44:00 PM
+,09/25/2026,Expense,,Marriott,Company Visa,Travel,-387.90,10/05/2026 10:02:00 AM
+,09/25/2026,Expense,,Amazon,Company Visa,Office Equipment,-163.49,09/25/2026 04:38:00 PM
+,09/25/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-38.10,09/25/2026 02:25:00 PM
+,09/25/2026,Expense,,FedEx,Company Visa,Shipping & Postage,-104.93,10/05/2026 08:18:00 AM
+,09/25/2026,Expense,,Google Ads,Company Visa,Advertising & Marketing,-671.08,09/25/2026 03:46:00 PM
+,09/26/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-72.77,09/28/2026 11:00:00 AM
+,09/28/2026,Expense,,Chipotle,Company Visa,Meals & Entertainment,-52.81,09/28/2026 01:49:00 PM
+,09/28/2026,Expense,,Costco,Company Visa,Meals & Entertainment,-297.47,09/29/2026 06:42:00 PM
+,09/28/2026,Expense,,Blue Bottle Coffee,Company Visa,Meals & Entertainment,-27.25,09/29/2026 04:04:00 PM
+,09/28/2026,Expense,,Home Depot,Company Visa,Repairs & Maintenance,-159.90,10/03/2026 04:35:00 PM
+,09/29/2026,Expense,,Uber,Company Visa,Travel,-24.53,10/09/2026 08:44:00 AM
+,09/29/2026,Expense,,Facebook Ads,Company Visa,Advertising & Marketing,-751.25,10/06/2026 11:00:00 AM
+,09/30/2026,Expense,,Staples,Company Visa,Office Supplies,-91.08,10/03/2026 08:40:00 AM
+,09/30/2026,Expense,,Uber,Company Visa,Travel,-54.24,10/01/2026 02:52:00 PM
+
+TOTAL,,,,,,,"-210,475.87",
+
+"Thursday, Oct 22, 2026 09:28 PM GMT-07:00"
