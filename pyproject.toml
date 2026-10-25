@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# Let plain `pytest` import qbo_anomaly from the repo root (CI runs it this way).
+pythonpath = ["."]
+testpaths = ["tests"]
