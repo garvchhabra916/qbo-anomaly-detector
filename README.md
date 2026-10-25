@@ -1,5 +1,7 @@
 # QBO Anomaly Detector
 
+[![tests](https://github.com/garvchhabra916/qbo-anomaly-detector/actions/workflows/tests.yml/badge.svg)](https://github.com/garvchhabra916/qbo-anomaly-detector/actions/workflows/tests.yml)
+
 Flags suspicious expense transactions in QuickBooks Online: duplicate payments, amounts just under an approval limit, backdated entries, miscoded accounts, and more. Every flag comes with a plain-English reason a bookkeeper can act on.
 
 It combines **audit-style rules**, which encode what a bookkeeper already looks for, with an **Isolation Forest**, which catches odd combinations no single rule covers. The two are merged into one ranked 0–1 risk score.
