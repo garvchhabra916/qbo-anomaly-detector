@@ -1,0 +1,11 @@
+# Weekly PRs when a dependency or GitHub Action has a newer (or patched) release.
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: weekly
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly

@@ -100,6 +100,18 @@ tests/           Unit tests for every rule and both ingest paths, incl. a raw QB
 app.py           Streamlit dashboard
 ```
 
+## Security
+
+The public dashboard is **read-only and stateless**.
+- **No database:** the app keeps no records, so a visitor has nothing to change.
+- **No credentials:** it holds no QBO tokens or API keys. `pull` runs only on your own machine, and the token is typed in with input hidden, never stored.
+- **Uploads are private:** files are parsed in memory and never written to disk. Each upload is scored only for the visitor who sent it, and cached results expire after an hour.
+- **Upload limit:** 10 MB.
+- **Escaped output:** text from uploaded files (vendor names, accounts) is escaped before display, so it can't inject links, HTML or LaTeX. CSV downloads neutralise spreadsheet formulas (`=`, `+`, `-`, `@`).
+- **No tracebacks:** error details are hidden from visitors (`showErrorDetails = "none"`), and Streamlit's XSRF protection stays on.
+- **Dependency checks:** CI runs `pip-audit` against known CVEs on every push, and Dependabot opens weekly update PRs.
+- **No secrets in the repo:** real client books (`data/live.json`, `data/real/`) are git-ignored.
+
 ## Limitations / next steps
 - Results are on synthetic data. Running it on a real sandbox company, or anonymized client books, is the real test.
 - Rule weights are hand-set. With a few hundred reviewer-labeled flags, they could be learned with logistic regression.

@@ -19,5 +19,7 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: pytest -q
+      - name: Check dependencies for known vulnerabilities
+        run: pip install pip-audit && pip-audit -r requirements.txt
       - name: Benchmark smoke test
         run: python -m qbo_anomaly benchmark --seeds 3
