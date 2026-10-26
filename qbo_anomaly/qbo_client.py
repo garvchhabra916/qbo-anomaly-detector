@@ -15,16 +15,22 @@ import getpass
 import json
 import os
 import re
+import ssl
 import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
+
+import certifi
 
 SANDBOX = "https://sandbox-quickbooks.api.intuit.com"
 PRODUCTION = "https://quickbooks.api.intuit.com"
 MINOR_VERSION = "75"
 PAGE_SIZE = 1000  # QBO's max per query
 ENTITIES = ("Purchase", "Bill")
+# python.org's macOS Python ships without CA certificates, so the default context can't
+# verify Intuit's TLS certificate. certifi's bundle works everywhere and keeps verification on.
+TLS = ssl.create_default_context(cafile=certifi.where())
 
 
 class QBOError(RuntimeError):
@@ -35,7 +41,7 @@ def _query(base: str, realm: str, token: str, sql: str) -> dict:
     url = f"{base}/v3/company/{realm}/query?" + urllib.parse.urlencode({"query": sql, "minorversion": MINOR_VERSION})
     req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}", "Accept": "application/json"})
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=30, context=TLS) as resp:
             return json.load(resp).get("QueryResponse", {})
     except urllib.error.HTTPError as err:
         body = err.read().decode(errors="replace")[:500]
@@ -46,6 +52,8 @@ def _query(base: str, realm: str, token: str, sql: str) -> dict:
             raise QBOError("Access denied (403). Check the realm ID matches the company you "
                            "authorized, and that --production is set only for a production company.") from None
         raise QBOError(f"QBO API error {err.code}: {body}") from None
+    except urllib.error.URLError as err:
+        raise QBOError(f"Couldn't reach QBO ({err.reason}). Check your internet connection.") from None
 
 
 def fetch(entity: str, realm: str, token: str, since: str | None = None, sandbox: bool = True) -> list[dict]:

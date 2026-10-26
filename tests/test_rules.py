@@ -173,3 +173,10 @@ def test_load_bytes_parses_in_memory():
     from qbo_anomaly.ingest import load_bytes
     df = load_bytes(FIXTURE.read_bytes(), "export.CSV")
     assert len(df) == 4
+
+
+def test_qbo_client_verifies_tls():
+    import ssl
+    from qbo_anomaly import qbo_client
+    assert qbo_client.TLS.verify_mode == ssl.CERT_REQUIRED
+    assert qbo_client.TLS.check_hostname

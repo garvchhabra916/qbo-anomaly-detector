@@ -5,3 +5,4 @@ scikit-learn>=1.6,<2
 streamlit>=1.66,<2
 altair>=5.4,<7
 pytest>=8
+certifi>=2024.2
