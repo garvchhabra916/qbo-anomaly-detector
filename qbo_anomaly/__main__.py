@@ -40,6 +40,7 @@ def main(argv=None):
 
     pl = sub.add_parser("pull", help="download Purchases and Bills from the QBO API")
     pl.add_argument("--out", default="data/live.json")
+    pl.add_argument("--realm", help="company (realm) ID; asked for if omitted")
     pl.add_argument("--since", help="YYYY-MM-DD")
     pl.add_argument("--production", action="store_true")
 
@@ -75,8 +76,13 @@ def main(argv=None):
         print((means.map("{:.3f}".format) + " ± " + stds.map("{:.3f}".format)).to_string())
 
     elif args.cmd == "pull":
-        from .qbo_client import pull
-        print(f"wrote {pull(args.out, args.since, sandbox=not args.production)}")
+        from .qbo_client import QBOError, pull
+        try:
+            path, counts = pull(args.out, args.realm, args.since, sandbox=not args.production)
+        except QBOError as err:
+            raise SystemExit(f"error: {err}")
+        print(f"wrote {path}: " + ", ".join(f"{n} {e}s" for e, n in counts.items()))
+        print(f"next: python -m qbo_anomaly scan {path}")
 
 
 if __name__ == "__main__":
