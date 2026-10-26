@@ -130,3 +130,46 @@ def test_ingest_rejects_file_without_headers(tmp_path):
     p.write_text("Report\nnothing useful here\n")
     with pytest.raises(ValueError, match="header row"):
         load_qbo_csv(p)
+
+
+def test_qbo_client_pages_through_results(monkeypatch):
+    from qbo_anomaly import qbo_client
+    calls = []
+
+    def fake_query(base, realm, token, sql):
+        calls.append(sql)
+        start = int(sql.split("STARTPOSITION ")[1].split()[0])
+        n = qbo_client.PAGE_SIZE if start == 1 else 3
+        return {"Purchase": [{"Id": str(start + i)} for i in range(n)]}
+
+    monkeypatch.setattr(qbo_client, "_query", fake_query)
+    rows = qbo_client.fetch("Purchase", "123", "tok", since="2026-01-01")
+    assert len(rows) == qbo_client.PAGE_SIZE + 3
+    assert "WHERE TxnDate >= '2026-01-01' STARTPOSITION 1001" in calls[1]
+
+
+def test_qbo_client_rejects_bad_since():
+    from qbo_anomaly import qbo_client
+    with pytest.raises(qbo_client.QBOError, match="YYYY-MM-DD"):
+        qbo_client.pull("x.json", realm="123", since="2026-01-01' OR 1=1")
+
+
+def test_md_escapes_markdown_and_latex():
+    from qbo_anomaly.sanitize import md
+    assert md("[click](http://evil)") == r"\[click\]\(http://evil\)"
+    assert md("$5 and $6") == r"\$5 and \$6"
+    assert md("<img src=x>") == r"\<img src=x\>"
+
+
+def test_csv_safe_neutralises_formulas():
+    from qbo_anomaly.sanitize import csv_safe
+    df = pd.DataFrame({"vendor": ["=HYPERLINK(\"http://evil\")", "+1", "@SUM(A1)", "Staples"], "amount": [1.0, -2.0, 3.0, 4.0]})
+    out = csv_safe(df)
+    assert out["vendor"].tolist() == ["'=HYPERLINK(\"http://evil\")", "'+1", "'@SUM(A1)", "Staples"]
+    assert out["amount"].tolist() == [1.0, -2.0, 3.0, 4.0]  # numbers untouched
+
+
+def test_load_bytes_parses_in_memory():
+    from qbo_anomaly.ingest import load_bytes
+    df = load_bytes(FIXTURE.read_bytes(), "export.CSV")
+    assert len(df) == 4

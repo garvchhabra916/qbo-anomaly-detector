@@ -1,7 +1,6 @@
 """Streamlit dashboard: streamlit run app.py"""
 from __future__ import annotations
 
-import tempfile
 from pathlib import Path
 
 import altair as alt
@@ -11,6 +10,7 @@ import streamlit as st
 from qbo_anomaly import ingest, synth
 from qbo_anomaly.evaluate import evaluate
 from qbo_anomaly.rules import RULES, Config, benford_first_digit
+from qbo_anomaly.sanitize import csv_safe, md
 from qbo_anomaly.score import scan
 
 DATA = Path(__file__).parent / "data"
@@ -26,11 +26,11 @@ RULE_LABELS = {r.name: r.name.replace("_", " ").capitalize() for r in RULES}
 st.set_page_config(page_title="QBO Anomaly Detector", page_icon="🔎", layout="wide")
 
 
-@st.cache_data
-def load_and_scan(data: bytes, suffix: str, threshold_limit: float) -> tuple[pd.DataFrame, dict]:
-    with tempfile.NamedTemporaryFile(suffix=suffix, delete=False) as f:
-        f.write(data)
-    df = ingest.load(f.name)
+# Uploads are parsed in memory and cached per file content, so one visitor's file is never
+# written to disk or shown to anyone else; entries expire after an hour.
+@st.cache_data(max_entries=20, ttl=3600, show_spinner="Scanning transactions...")
+def load_and_scan(data: bytes, filename: str, threshold_limit: float) -> tuple[pd.DataFrame, dict]:
+    df = ingest.load_bytes(data, filename)
     if df.empty:
         raise ValueError("No expense transactions found in this file.")
     return scan(df, Config(approval_threshold=threshold_limit)), df.attrs.get("skipped", {})
@@ -48,27 +48,31 @@ with st.sidebar:
     if upload is None and not SAMPLE.exists():
         synth.write(DATA)
     st.caption("No file? A synthetic company with 20 planted anomalies is loaded."
-               if upload is None else f"Scanning **{upload.name}**")
+               if upload is None else f"Scanning **{md(upload.name)}**")
     st.header("Settings")
     threshold = st.slider("Flag when risk score ≥", 0.1, 0.95, 0.5, 0.05)
     approval_limit = st.number_input("Approval limit ($)", 500.0, 100_000.0, 5000.0, 500.0)
 
 if upload is not None:
-    raw, suffix, truth = upload.getvalue(), Path(upload.name).suffix, None
+    raw, filename, truth = upload.getvalue(), upload.name, None
 else:
-    raw, suffix, truth = SAMPLE.read_bytes(), ".json", pd.read_csv(SAMPLE_TRUTH)
+    raw, filename, truth = SAMPLE.read_bytes(), SAMPLE.name, pd.read_csv(SAMPLE_TRUTH)
 
 try:
-    scored, skipped = load_and_scan(raw, suffix, approval_limit)
+    scored, skipped = load_and_scan(raw, filename, approval_limit)
 except (ValueError, KeyError) as err:
-    st.error(f"Couldn't read **{upload.name if upload else 'the sample data'}**: {err}")
+    st.error(f"Couldn't read **{md(filename)}**: {md(err)}")
+    st.stop()
+except Exception:
+    # Anything unexpected: say so without echoing internals back to the visitor.
+    st.error(f"Couldn't read **{md(filename)}**. Export it from QBO as Reports > Transaction List by Date (CSV).")
     st.stop()
 
 if skipped:
     with st.sidebar:
         types = skipped.get("non_expense_types", {})
         if types:
-            st.caption("Skipped (not expenses): " + ", ".join(f"{n} {t}" for t, n in sorted(types.items(), key=lambda x: -x[1]))
+            st.caption("Skipped (not expenses): " + ", ".join(f"{n} {md(t)}" for t, n in sorted(types.items(), key=lambda x: -x[1]))
                        + ". Bill Payments are skipped because the Bill itself is already counted.")
         if skipped.get("non_transaction_rows"):
             st.caption(f"Ignored {skipped['non_transaction_rows']} report title, total and blank rows.")
@@ -112,7 +116,7 @@ with tab_review:
             "txn_id": "QBO ID",
         },
     )
-    st.download_button("Download review queue (CSV)", table.to_csv(index=False), "flagged.csv", "text/csv")
+    st.download_button("Download review queue (CSV)", csv_safe(table).to_csv(index=False), "flagged.csv", "text/csv")
 
     rows = event.selection.rows if event and event.selection else []
     if not len(flagged):
@@ -122,15 +126,15 @@ with tab_review:
         pick = table.iloc[rows[0]] if rows else table.iloc[0]
         left, right = st.columns([2, 3], gap="large")
         with left:
-            st.subheader(f"{pick['vendor']} · ${pick['amount']:,.2f}")
-            st.caption(f"{pick['txn_id']} · {pick['txn_date']:%b %d, %Y} · {pick['account']} · "
+            st.subheader(f"{md(pick['vendor'])} · \\${pick['amount']:,.2f}")
+            st.caption(f"{md(pick['txn_id'])} · {pick['txn_date']:%b %d, %Y} · {md(pick['account'])} · "
                        f"risk {pick['risk_score']:.2f}" + ("" if rows else " · showing the top row"))
             for reason in pick["reasons"].split("; "):
-                st.markdown(f"🚩 {reason}")
+                st.markdown(f"🚩 {md(reason)}")
         with right:
             history = scored[scored["vendor"] == pick["vendor"]].copy()
             history["this"] = history["txn_id"].eq(pick["txn_id"]).map({True: "This transaction", False: "Other payments"})
-            st.markdown(f"**All {len(history)} payments to {pick['vendor']}**")
+            st.markdown(f"**All {len(history)} payments to {md(pick['vendor'])}**")
             st.altair_chart(
                 alt.Chart(history).mark_circle(size=80, opacity=0.9, stroke="white", strokeWidth=1).encode(
                     x=alt.X("txn_date:T", title=None),

@@ -1,5 +1,17 @@
 [theme]
 primaryColor = "#2a78d6"
 
+[server]
+# A year of QBO expenses is well under 1 MB; refuse anything big enough to exhaust memory.
+maxUploadSize = 10
+# Defaults, stated so they are not turned off by accident.
+enableXsrfProtection = true
+enableCORS = true
+
+[client]
+# Never show Python tracebacks (file paths, code) to visitors.
+showErrorDetails = "none"
+toolbarMode = "viewer"
+
 [browser]
 gatherUsageStats = false

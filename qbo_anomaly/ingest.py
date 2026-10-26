@@ -52,7 +52,11 @@ def _entity_to_row(entity: dict, txn_type: str) -> dict:
 
 
 def load_qbo_json(path: str | Path) -> pd.DataFrame:
-    payload = json.loads(Path(path).read_text())
+    return parse_qbo_json(Path(path).read_text(encoding="utf-8-sig"))
+
+
+def parse_qbo_json(text: str) -> pd.DataFrame:
+    payload = json.loads(text)
     if isinstance(payload, dict) and "QueryResponse" in payload:
         payload = payload["QueryResponse"]
     rows = []
@@ -83,7 +87,10 @@ def _find_header(lines: list[str]) -> int:
 
 
 def load_qbo_csv(path: str | Path) -> pd.DataFrame:
-    text = Path(path).read_text(encoding="utf-8-sig")
+    return parse_qbo_csv(Path(path).read_text(encoding="utf-8-sig"))
+
+
+def parse_qbo_csv(text: str) -> pd.DataFrame:
     lines = text.splitlines()
     header = _find_header(lines)
     raw = pd.read_csv(io.StringIO(text), skiprows=header, dtype=str, skip_blank_lines=False)
@@ -133,6 +140,12 @@ def load_qbo_csv(path: str | Path) -> pd.DataFrame:
 
 def load(path: str | Path) -> pd.DataFrame:
     return load_qbo_csv(path) if str(path).lower().endswith(".csv") else load_qbo_json(path)
+
+
+def load_bytes(data: bytes, filename: str) -> pd.DataFrame:
+    """Parse an uploaded file in memory, so nothing a visitor uploads is written to disk."""
+    text = data.decode("utf-8-sig")
+    return parse_qbo_csv(text) if filename.lower().endswith(".csv") else parse_qbo_json(text)
 
 
 def _normalize(df: pd.DataFrame) -> pd.DataFrame:
